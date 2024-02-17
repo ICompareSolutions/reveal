@@ -1,0 +1,94 @@
+**************************************
+C:\Users\JohnF\OneDrive\AgileSlides\d.docs.live.net\7068dd7de4bf55dd\Presentations\nop321\Promotion-Tools\Gift-Cards-AI.pptx.AgileSlides\images\slides\SVG\Slide5.svg
+
+**************************************
+layoutSlide.Name=Full Content Area - Dev
+
+shape.Name=TopRectangle; CodeName=TopRectangle; Type=1; Visible = True; LineVisible = False; Text = 
+shape.Name=SectionNameTextPlaceholder; CodeName=SectionNameTextPlaceholder; Type=14; Visible = False; LineVisible = False; Text = {Section Name Here}
+shape.Name=FooterPlaceholder; CodeName=FooterPlaceholder; Type=14; Visible = True; LineVisible = False; Text = John@ICompareSolutions.com
+shape.Name=SlideNumberPlaceholder; CodeName=SlideNumberPlaceholder; Type=14; Visible = True; LineVisible = False; Text = ‹#›
+shape.Name=TitlePlaceholder; CodeName=TitlePlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Title Here}
+shape.Name=ReferenceTextPlaceholder; CodeName=ReferenceTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Reference Text Here}
+shape.Name=ContentPlaceholder; CodeName=ContentPlaceholder; Type=14; Visible = True; LineVisible = False; Text = First levelSecond levelThird levelFourth levelFifth level
+--------------------------------------
+slide.Name=Slide289
+
+shape.Name=Text Placeholder 3; CodeName=Text_Placeholder_3; Type=14; Visible = True; LineVisible = False; Text = 
+shape.Name=Title 2; CodeName=Title_2; Type=14; Visible = True; LineVisible = False; Text = Products – Adding a Gift Card
+shape.Name=Text Placeholder 6; CodeName=Text_Placeholder_6; Type=14; Visible = True; LineVisible = False; Text = Nop.Web\Areas\Admin\Views\Product\_CreateOrUpdate.Info.cshtml
+shape.Name=Content Placeholder 1; CodeName=Content_Placeholder_1; Type=14; Visible = True; LineVisible = False; Text = 
+shape.Name=Graphic 7; CodeName=Graphic_7; Type=28; Visible = True; LineVisible = False; Text = 
+shape.Name=TextBox 8; CodeName=TextBox_8; Type=17; Visible = True; LineVisible = False; Text = Developer
+shape.Name=Picture 9; CodeName=Picture_9; Type=13; Visible = True; LineVisible = True; Text = 
+shape.Name=Slide5; CodeName=Slide5; Type=16; Visible = True; LineVisible = False; Text = 
+shape.Name=Footer Placeholder 5; CodeName=Footer_Placeholder_5; Type=14; Visible = True; LineVisible = False; Text = John@ICompareSolutions.com
+shape.Name=Slide Number Placeholder 10; CodeName=Slide_Number_Placeholder_10; Type=14; Visible = True; LineVisible = False; Text = 5
+
+======================================
+
+Svg.SvgDocument : ID=
+- Svg.SvgDefinitionList : ID=
+  - Svg.SvgClipPath : ID=clip0
+    - Svg.SvgRectangle : ID=
+  - url(#fill1) : ID=fill1
+    - Svg.SvgGradientStop : ID=
+    - Svg.SvgGradientStop : ID=
+    - Svg.SvgGradientStop : ID=
+    - Svg.SvgGradientStop : ID=
+  - Svg.SvgClipPath : ID=clip2
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img3
+  - Svg.SvgClipPath : ID=clip4
+    - Svg.SvgPath : ID=
+  - Svg.SvgClipPath : ID=clip5
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip6
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip7
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip8
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img9
+  - Svg.SvgClipPath : ID=clip10
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip11
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img12
+  - Svg.SvgClipPath : ID=clip13
+    - Svg.SvgRectangle : ID=
+- Svg.SvgGroup : ID= : url(#clip0)
+  - Svg.SvgRectangle : ID=
+  - Svg.SvgRectangle : ID=
+  - Products : ID=
+  - – : ID=
+  - Adding a Gift Card : ID=
+  - Nop.Web : ID=
+  - \ : ID=
+  - Areas : ID=
+  - \ : ID=
+  - Admin : ID=
+  - \ : ID=
+  - Views : ID=
+  - \ : ID=
+  - Product : ID=
+  - \ : ID=
+  - _CreateOrUpdate.Info.cshtml : ID=
+  - Svg.SvgGroup : ID= : url(#clip2)
+    - Svg.SvgGroup : ID= : url(#clip4)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID= : url(#clip5)
+    - Svg.SvgGroup : ID= : url(#clip6)
+      - Svg.SvgGroup : ID= : url(#clip7)
+        - Svg.SvgPath : ID=
+        - Svg.SvgPath : ID=
+  - Developer : ID=
+  - Svg.SvgGroup : ID= : url(#clip8)
+    - Svg.SvgGroup : ID= : url(#clip10)
+      - Svg.SvgUse : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgGroup : ID= : url(#clip11)
+    - Svg.SvgGroup : ID= : url(#clip13)
+      - Svg.SvgUse : ID=
+  - John@ICompareSolutions.com : ID=
+  - 5 : ID=

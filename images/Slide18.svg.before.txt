@@ -1,0 +1,55 @@
+**************************************
+C:\Users\JohnF\OneDrive\AgileSlides\d.docs.live.net\7068dd7de4bf55dd\Presentations\nop321\Promotion-Tools\Gift-Cards-AI.pptx.AgileSlides\images\slides\SVG\Slide18.svg
+
+**************************************
+layoutSlide.Name=Partial Content Area
+
+shape.Name=TopRectangle; CodeName=TopRectangle; Type=1; Visible = True; LineVisible = False; Text = 
+shape.Name=SectionNameTextPlaceholder; CodeName=SectionNameTextPlaceholder; Type=14; Visible = False; LineVisible = False; Text = {Section Name Here}
+shape.Name=ContentPlaceholder; CodeName=ContentPlaceholder; Type=14; Visible = True; LineVisible = False; Text = First levelSecond levelThird levelFourth levelFifth level
+shape.Name=FooterPlaceholder; CodeName=FooterPlaceholder; Type=14; Visible = True; LineVisible = False; Text = John@ICompareSolutions.com
+shape.Name=SlideNumberPlaceholder; CodeName=SlideNumberPlaceholder; Type=14; Visible = True; LineVisible = False; Text = ‹#›
+shape.Name=TitlePlaceholder; CodeName=TitlePlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Title Here}
+shape.Name=ReferenceTextPlaceholder; CodeName=ReferenceTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Reference Text Here}
+shape.Name=GuideRectangle; CodeName=GuideRectangle; Type=1; Visible = False; LineVisible = True; Text = 
+shape.Name=SubTitleTextPlaceholder; CodeName=SubTitleTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Sub Title Here}
+--------------------------------------
+slide.Name=Slide281
+
+shape.Name=Text Placeholder 4; CodeName=Text_Placeholder_4; Type=14; Visible = True; LineVisible = False; Text = 
+shape.Name=Content Placeholder 5; CodeName=Content_Placeholder_5; Type=14; Visible = True; LineVisible = False; Text = Nop DocsYouTubeNext Steps
+shape.Name=Title 3; CodeName=Title_3; Type=14; Visible = True; LineVisible = False; Text = Summary
+shape.Name=Text Placeholder 6; CodeName=Text_Placeholder_6; Type=14; Visible = True; LineVisible = False; Text = 
+shape.Name=Text Placeholder 7; CodeName=Text_Placeholder_7; Type=14; Visible = True; LineVisible = False; Text = Other Resources
+shape.Name=Slide18; CodeName=Slide18; Type=16; Visible = True; LineVisible = False; Text = 
+shape.Name=Footer Placeholder 2; CodeName=Footer_Placeholder_2; Type=14; Visible = True; LineVisible = False; Text = John@ICompareSolutions.com
+shape.Name=Slide Number Placeholder 8; CodeName=Slide_Number_Placeholder_8; Type=14; Visible = True; LineVisible = False; Text = 18
+
+======================================
+
+Svg.SvgDocument : ID=
+- Svg.SvgDefinitionList : ID=
+  - Svg.SvgClipPath : ID=clip0
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip1
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img2
+  - Svg.SvgClipPath : ID=clip3
+    - Svg.SvgRectangle : ID=
+- Svg.SvgGroup : ID= : url(#clip0)
+  - Svg.SvgRectangle : ID=
+  - Svg.SvgRectangle : ID=
+  - • : ID=
+  - Nop : ID=
+  - Docs : ID=
+  - • : ID=
+  - YouTube : ID=
+  - • : ID=
+  - Next Steps : ID=
+  - Summary : ID=
+  - Other Resources : ID=
+  - Svg.SvgGroup : ID= : url(#clip1)
+    - Svg.SvgGroup : ID= : url(#clip3)
+      - Svg.SvgUse : ID=
+  - John@ICompareSolutions.com : ID=
+  - 18 : ID=

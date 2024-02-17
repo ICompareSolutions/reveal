@@ -1,0 +1,65 @@
+**************************************
+C:\Users\JohnF\OneDrive\AgileSlides\d.docs.live.net\7068dd7de4bf55dd\Presentations\nop321\Promotion-Tools\Gift-Cards-AI.pptx.AgileSlides\images\slides\SVG\Slide11.svg
+
+**************************************
+layoutSlide.Name=Full Content Area - Dev
+
+shape.Name=TopRectangle; CodeName=TopRectangle; Type=1; Visible = True; LineVisible = False; Text = 
+shape.Name=SectionNameTextPlaceholder; CodeName=SectionNameTextPlaceholder; Type=14; Visible = False; LineVisible = False; Text = {Section Name Here}
+shape.Name=FooterPlaceholder; CodeName=FooterPlaceholder; Type=14; Visible = True; LineVisible = False; Text = John@ICompareSolutions.com
+shape.Name=SlideNumberPlaceholder; CodeName=SlideNumberPlaceholder; Type=14; Visible = True; LineVisible = False; Text = ‹#›
+shape.Name=TitlePlaceholder; CodeName=TitlePlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Title Here}
+shape.Name=ReferenceTextPlaceholder; CodeName=ReferenceTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Reference Text Here}
+shape.Name=ContentPlaceholder; CodeName=ContentPlaceholder; Type=14; Visible = True; LineVisible = False; Text = First levelSecond levelThird levelFourth levelFifth level
+--------------------------------------
+slide.Name=Slide297
+
+shape.Name=Text Placeholder 3; CodeName=Text_Placeholder_3; Type=14; Visible = True; LineVisible = False; Text = 
+shape.Name=Title 2; CodeName=Title_2; Type=14; Visible = True; LineVisible = False; Text = Purchasing a Gift Card
+shape.Name=Text Placeholder 5; CodeName=Text_Placeholder_5; Type=14; Visible = True; LineVisible = False; Text = 
+shape.Name=Content Placeholder 4; CodeName=Content_Placeholder_4; Type=14; Visible = True; LineVisible = False; Text = (database)
+shape.Name=Graphic 6; CodeName=Graphic_6; Type=28; Visible = True; LineVisible = False; Text = 
+shape.Name=TextBox 7; CodeName=TextBox_7; Type=17; Visible = True; LineVisible = False; Text = DBA
+shape.Name=Slide11; CodeName=Slide11; Type=16; Visible = True; LineVisible = False; Text = 
+shape.Name=Footer Placeholder 8; CodeName=Footer_Placeholder_8; Type=14; Visible = True; LineVisible = False; Text = John@ICompareSolutions.com
+shape.Name=Slide Number Placeholder 9; CodeName=Slide_Number_Placeholder_9; Type=14; Visible = True; LineVisible = False; Text = 11
+
+======================================
+
+Svg.SvgDocument : ID=
+- Svg.SvgDefinitionList : ID=
+  - Svg.SvgClipPath : ID=clip0
+    - Svg.SvgRectangle : ID=
+  - url(#fill1) : ID=fill1
+    - Svg.SvgGradientStop : ID=
+    - Svg.SvgGradientStop : ID=
+    - Svg.SvgGradientStop : ID=
+    - Svg.SvgGradientStop : ID=
+  - Svg.SvgClipPath : ID=clip2
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip3
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip4
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip5
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img6
+  - Svg.SvgClipPath : ID=clip7
+    - Svg.SvgRectangle : ID=
+- Svg.SvgGroup : ID= : url(#clip0)
+  - Svg.SvgRectangle : ID=
+  - Svg.SvgRectangle : ID=
+  - Purchasing a Gift Card : ID=
+  - • : ID=
+  - (database) : ID=
+  - Svg.SvgGroup : ID= : url(#clip2)
+    - Svg.SvgGroup : ID= : url(#clip3)
+      - Svg.SvgGroup : ID= : url(#clip4)
+        - Svg.SvgPath : ID=
+        - Svg.SvgPath : ID=
+  - DBA : ID=
+  - Svg.SvgGroup : ID= : url(#clip5)
+    - Svg.SvgGroup : ID= : url(#clip7)
+      - Svg.SvgUse : ID=
+  - John@ICompareSolutions.com : ID=
+  - 11 : ID=

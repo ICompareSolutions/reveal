@@ -1,0 +1,109 @@
+**************************************
+C:\Users\JohnF\OneDrive\AgileSlides\d.docs.live.net\7068dd7de4bf55dd\Presentations\nop321\Promotion-Tools\Gift-Cards-AI.pptx.AgileSlides\images\slides\SVG\Slide1.svg
+
+**************************************
+layoutSlide.Name=Section Header
+
+shape.Name=TopRectangle; CodeName=TopRectangle; Type=1; Visible = True; LineVisible = False; Text = 
+shape.Name=ContentPlaceholder; CodeName=ContentPlaceholder; Type=14; Visible = True; LineVisible = False; Text = First levelSecond levelThird levelFourth levelFifth level
+shape.Name=FooterPlaceholder; CodeName=FooterPlaceholder; Type=14; Visible = True; LineVisible = False; Text = John@ICompareSolutions.com
+shape.Name=SlideNumberPlaceholder; CodeName=SlideNumberPlaceholder; Type=14; Visible = True; LineVisible = False; Text = ‹#›
+shape.Name=SectionNameTextPlaceholder; CodeName=SectionNameTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Section Name Here}
+shape.Name=GuideRectangle; CodeName=GuideRectangle; Type=1; Visible = False; LineVisible = True; Text = 
+shape.Name=Picture 10; CodeName=Picture_10; Type=13; Visible = True; LineVisible = False; Text = 
+--------------------------------------
+slide.Name=Slide280
+
+shape.Name=GiftCardImage; CodeName=GiftCardImage; Type=14; Visible = True; LineVisible = False; Text = 
+shape.Name=Title; CodeName=Title; Type=14; Visible = True; LineVisible = False; Text = Gift Cards
+shape.Name=NopLogo; CodeName=NopLogo; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=ShopperImage; CodeName=ShopperImage; Type=28; Visible = True; LineVisible = False; Text = 
+shape.Name=ShopperText; CodeName=ShopperText; Type=17; Visible = True; LineVisible = False; Text = Shopper
+shape.Name=ProductManagerImage; CodeName=ProductManagerImage; Type=28; Visible = True; LineVisible = False; Text = 
+shape.Name=ProductManagerText; CodeName=ProductManagerText; Type=17; Visible = True; LineVisible = False; Text = Product Manager
+shape.Name=OrderManagerImage; CodeName=OrderManagerImage; Type=28; Visible = True; LineVisible = False; Text = 
+shape.Name=OrderManagerText; CodeName=OrderManagerText; Type=17; Visible = True; LineVisible = False; Text = Order Manager
+shape.Name=Slide280; CodeName=Slide280; Type=16; Visible = True; LineVisible = False; Text = 
+shape.Name=Footer Placeholder 12; CodeName=Footer_Placeholder_12; Type=14; Visible = True; LineVisible = False; Text = John@ICompareSolutions.com
+shape.Name=Slide Number Placeholder 13; CodeName=Slide_Number_Placeholder_13; Type=14; Visible = True; LineVisible = False; Text = 1
+
+======================================
+
+Svg.SvgDocument : ID=
+- Svg.SvgDefinitionList : ID=
+  - Svg.SvgClipPath : ID=clip0
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip1
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img2
+  - Svg.SvgClipPath : ID=clip3
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip4
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img5
+  - Svg.SvgClipPath : ID=clip6
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip7
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img8
+  - Svg.SvgClipPath : ID=clip9
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip10
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip11
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip12
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip13
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip14
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip15
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip16
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip17
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip18
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip19
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img20
+  - Svg.SvgClipPath : ID=clip21
+    - Svg.SvgRectangle : ID=
+- Svg.SvgGroup : ID= : url(#clip0)
+  - Svg.SvgRectangle : ID=
+  - Svg.SvgRectangle : ID=
+  - Svg.SvgGroup : ID= : url(#clip1)
+    - Svg.SvgGroup : ID= : url(#clip3)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID= : url(#clip4)
+    - Svg.SvgGroup : ID= : url(#clip6)
+      - Svg.SvgUse : ID=
+  - Gift Cards : ID=
+  - Svg.SvgGroup : ID= : url(#clip7)
+    - Svg.SvgGroup : ID= : url(#clip9)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID= : url(#clip10)
+    - Svg.SvgGroup : ID= : url(#clip11)
+      - Svg.SvgGroup : ID= : url(#clip12)
+        - Svg.SvgPath : ID=
+        - Svg.SvgPath : ID=
+  - Shopper : ID=
+  - Svg.SvgGroup : ID= : url(#clip13)
+    - Svg.SvgGroup : ID= : url(#clip14)
+      - Svg.SvgGroup : ID= : url(#clip15)
+        - Svg.SvgPath : ID=
+        - Svg.SvgPath : ID=
+  - Product Manager : ID=
+  - Svg.SvgGroup : ID= : url(#clip16)
+    - Svg.SvgGroup : ID= : url(#clip17)
+      - Svg.SvgGroup : ID= : url(#clip18)
+        - Svg.SvgPath : ID=
+        - Svg.SvgPath : ID=
+  - Order Manager : ID=
+  - Svg.SvgGroup : ID= : url(#clip19)
+    - Svg.SvgGroup : ID= : url(#clip21)
+      - Svg.SvgUse : ID=
+  - John@ICompareSolutions.com : ID=
+  - 1 : ID=

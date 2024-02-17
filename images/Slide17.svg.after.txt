@@ -1,0 +1,262 @@
+**************************************
+C:\Users\JohnF\OneDrive\AgileSlides\d.docs.live.net\7068dd7de4bf55dd\Presentations\nop321\Promotion-Tools\Gift-Cards-AI.pptx.AgileSlides\images\slides\SVG\Slide17.svg
+
+**************************************
+layoutSlide.Name=No Content Area
+
+shape.Name=TopRectangle; CodeName=TopRectangle; Type=1; Visible = True; LineVisible = False; Text = 
+shape.Name=SectionNameTextPlaceholder; CodeName=SectionNameTextPlaceholder; Type=14; Visible = False; LineVisible = False; Text = {Section Name Here}
+shape.Name=FooterPlaceholder; CodeName=FooterPlaceholder; Type=14; Visible = True; LineVisible = False; Text = John@ICompareSolutions.com
+shape.Name=SlideNumberPlaceholder; CodeName=SlideNumberPlaceholder; Type=14; Visible = True; LineVisible = False; Text = ‹#›
+shape.Name=TitlePlaceholder; CodeName=TitlePlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Title Here}
+shape.Name=ReferenceTextPlaceholder; CodeName=ReferenceTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Reference Text Here}
+shape.Name=Picture 1; CodeName=Picture_1; Type=13; Visible = True; LineVisible = False; Text = 
+--------------------------------------
+slide.Name=Slide300
+
+shape.Name=Text Placeholder 5; CodeName=Text_Placeholder_5; Type=14; Visible = True; LineVisible = False; Text = 
+shape.Name=Title 2; CodeName=Title_2; Type=14; Visible = True; LineVisible = False; Text = Gift Cards - Workflow
+shape.Name=Text Placeholder 6; CodeName=Text_Placeholder_6; Type=14; Visible = True; LineVisible = False; Text = Summary
+shape.Name=Rounded Rectangle 22; CodeName=Rounded_Rectangle_22; Type=1; Visible = True; LineVisible = True; Text = Purchasing a Gift Card
+shape.Name=Graphic 23; CodeName=Graphic_23; Type=28; Visible = True; LineVisible = False; Text = 
+shape.Name=Graphic 24; CodeName=Graphic_24; Type=28; Visible = True; LineVisible = False; Text = 
+shape.Name=Rounded Rectangle 25; CodeName=Rounded_Rectangle_25; Type=1; Visible = True; LineVisible = True; Text = Adding a Gift Card
+shape.Name=TextBox 26; CodeName=TextBox_26; Type=17; Visible = True; LineVisible = False; Text = Product Manager
+shape.Name=TextBox 27; CodeName=TextBox_27; Type=17; Visible = True; LineVisible = False; Text = Shopper
+shape.Name=Rounded Rectangle 28; CodeName=Rounded_Rectangle_28; Type=1; Visible = True; LineVisible = True; Text = Using a Gift Card
+shape.Name=Graphic 29; CodeName=Graphic_29; Type=28; Visible = True; LineVisible = False; Text = 
+shape.Name=TextBox 30; CodeName=TextBox_30; Type=17; Visible = True; LineVisible = False; Text = Shopper
+shape.Name=Graphic 31; CodeName=Graphic_31; Type=28; Visible = True; LineVisible = False; Text = 
+shape.Name=TextBox 32; CodeName=TextBox_32; Type=17; Visible = True; LineVisible = False; Text = Order Manager
+shape.Name=Rounded Rectangle 33; CodeName=Rounded_Rectangle_33; Type=1; Visible = True; LineVisible = True; Text = Managing Gift Cards
+shape.Name=Content Placeholder 18; CodeName=Content_Placeholder_18; Type=13; Visible = True; LineVisible = True; Text = 
+shape.Name=Content Placeholder 21; CodeName=Content_Placeholder_21; Type=13; Visible = True; LineVisible = True; Text = 
+shape.Name=Content Placeholder 18; CodeName=Content_Placeholder_18; Type=13; Visible = True; LineVisible = True; Text = 
+shape.Name=Content Placeholder 21; CodeName=Content_Placeholder_21; Type=13; Visible = True; LineVisible = True; Text = 
+shape.Name=Rectangle 38; CodeName=Rectangle_38; Type=1; Visible = True; LineVisible = True; Text = Administrator
+shape.Name=Rectangle 39; CodeName=Rectangle_39; Type=1; Visible = True; LineVisible = True; Text = Administrator
+shape.Name=Rectangle 40; CodeName=Rectangle_40; Type=1; Visible = True; LineVisible = True; Text = Store Front
+shape.Name=Rectangle 41; CodeName=Rectangle_41; Type=1; Visible = True; LineVisible = True; Text = Store Front
+shape.Name=Straight Arrow Connector 42; CodeName=Straight_Arrow_Connector_42; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Straight Arrow Connector 43; CodeName=Straight_Arrow_Connector_43; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Straight Arrow Connector 44; CodeName=Straight_Arrow_Connector_44; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Straight Arrow Connector 45; CodeName=Straight_Arrow_Connector_45; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Straight Arrow Connector 46; CodeName=Straight_Arrow_Connector_46; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Straight Arrow Connector 47; CodeName=Straight_Arrow_Connector_47; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Straight Arrow Connector 48; CodeName=Straight_Arrow_Connector_48; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Straight Arrow Connector 49; CodeName=Straight_Arrow_Connector_49; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Slide17; CodeName=Slide17; Type=16; Visible = True; LineVisible = False; Text = 
+shape.Name=Footer Placeholder 3; CodeName=Footer_Placeholder_3; Type=14; Visible = True; LineVisible = False; Text = John@ICompareSolutions.com
+shape.Name=Slide Number Placeholder 4; CodeName=Slide_Number_Placeholder_4; Type=14; Visible = True; LineVisible = False; Text = 17
+
+======================================
+
+Skipped Layout Shape: SectionNameTextPlaceholder - it is a Placeholder
+Skipped Layout Shape: FooterPlaceholder - it is a Placeholder
+Skipped Layout Shape: SlideNumberPlaceholder - it is a Placeholder
+Skipped Layout Shape: TitlePlaceholder - it is a Placeholder
+Skipped Layout Shape: ReferenceTextPlaceholder - it is a Placeholder
+Skipped Shape: Text_Placeholder_5 - IsUsedIfPlaceHolder == false
+Held Shape: Title_2 - Rule 1 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = GiftCards-Workflow
+    elementText_NoSpaces = GiftCards
+Set ID: Title_2
+Held Shape: Title_2 - Rule 1 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = GiftCards-Workflow
+    elementText_NoSpaces = GiftCards-
+Set ID: Title_2
+Set ID: Title_2
+Set ID: Text_Placeholder_6
+Held Shape: Rounded_Rectangle_22 - Rule 2
+Set ID: Rounded_Rectangle_22
+Set ID: Rounded_Rectangle_22
+Set ID: Graphic_23
+Set ID: Graphic_24
+Held Shape: Rounded_Rectangle_25 - Rule 2
+Set ID: Rounded_Rectangle_25
+Set ID: Rounded_Rectangle_25
+Set ID: TextBox_26
+Set ID: TextBox_27
+Held Shape: Rounded_Rectangle_28 - Rule 2
+Set ID: Rounded_Rectangle_28
+Set ID: Rounded_Rectangle_28
+Set ID: Graphic_29
+Set ID: TextBox_30
+Set ID: Graphic_31
+Set ID: TextBox_32
+Held Shape: Rounded_Rectangle_33 - Rule 2
+Set ID: Rounded_Rectangle_33
+Set ID: Rounded_Rectangle_33
+Held Shape: Content_Placeholder_18 - Rule 3
+Set ID: Content_Placeholder_18
+Set ID: Content_Placeholder_18
+Held Shape: Content_Placeholder_21 - Rule 3
+Set ID: Content_Placeholder_21
+Set ID: Content_Placeholder_21
+Held Shape: Content_Placeholder_18 - Rule 3
+Set ID: Content_Placeholder_18
+Set ID: Content_Placeholder_18
+Held Shape: Content_Placeholder_21 - Rule 3
+Set ID: Content_Placeholder_21
+Set ID: Content_Placeholder_21
+Held Shape: Rectangle_38 - Rule 2
+Set ID: Rectangle_38
+Set ID: Rectangle_38
+Held Shape: Rectangle_39 - Rule 2
+Set ID: Rectangle_39
+Set ID: Rectangle_39
+Held Shape: Rectangle_40 - Rule 2
+Set ID: Rectangle_40
+Set ID: Rectangle_40
+Held Shape: Rectangle_41 - Rule 2
+Set ID: Rectangle_41
+Set ID: Rectangle_41
+Set ID: Straight_Arrow_Connector_42
+Set ID: Straight_Arrow_Connector_43
+Set ID: Straight_Arrow_Connector_44
+Set ID: Straight_Arrow_Connector_45
+Set ID: Straight_Arrow_Connector_46
+Set ID: Straight_Arrow_Connector_47
+Set ID: Straight_Arrow_Connector_48
+Set ID: Straight_Arrow_Connector_49
+Set ID: Slide17
+Set ID: Footer_Placeholder_3
+Set ID: Slide_Number_Placeholder_4
+Success = True
+
+======================================
+Svg.SvgDocument : ID=
+- Svg.SvgDefinitionList : ID=
+  - Svg.SvgClipPath : ID=clip0
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip1
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img2
+  - Svg.SvgClipPath : ID=clip3
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip4
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip5
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip6
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip7
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip8
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip9
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip10
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip11
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip12
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip13
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip14
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip15
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip16
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img17
+  - Svg.SvgClipPath : ID=clip18
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip19
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img20
+  - Svg.SvgClipPath : ID=clip21
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip22
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip23
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip24
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip25
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip26
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img27
+  - Svg.SvgClipPath : ID=clip28
+    - Svg.SvgRectangle : ID=
+- Svg.SvgGroup : ID=gSlide : url(#clip0)
+  - Svg.SvgRectangle : ID=rectSlide--0
+  - Svg.SvgRectangle : ID=TopRectangle--1
+  - Svg.SvgGroup : ID=Picture_1--2 : url(#clip1)
+    - Svg.SvgGroup : ID= : url(#clip3)
+      - Svg.SvgUse : ID=
+  - Gift Cards : ID=Title_2--3
+  - - : ID=Title_2--4
+  - Workflow : ID=Title_2--5
+  - Summary : ID=Text_Placeholder_6--6
+  - Svg.SvgPath : ID=Rounded_Rectangle_22--7
+  - Purchasing a Gift Card : ID=Rounded_Rectangle_22--8
+  - Svg.SvgGroup : ID=Graphic_23--9 : url(#clip4)
+    - Svg.SvgGroup : ID= : url(#clip5)
+      - Svg.SvgGroup : ID= : url(#clip6)
+        - Svg.SvgPath : ID=
+        - Svg.SvgPath : ID=
+  - Svg.SvgGroup : ID=Graphic_24--10 : url(#clip7)
+    - Svg.SvgGroup : ID= : url(#clip8)
+      - Svg.SvgGroup : ID= : url(#clip9)
+        - Svg.SvgPath : ID=
+        - Svg.SvgPath : ID=
+  - Svg.SvgPath : ID=Rounded_Rectangle_25--11
+  - Adding a Gift Card : ID=Rounded_Rectangle_25--12
+  - Product Manager : ID=TextBox_26--13
+  - Shopper : ID=TextBox_27--14
+  - Svg.SvgPath : ID=Rounded_Rectangle_28--15
+  - Using a Gift Card : ID=Rounded_Rectangle_28--16
+  - Svg.SvgGroup : ID=Graphic_29--17 : url(#clip10)
+    - Svg.SvgGroup : ID= : url(#clip11)
+      - Svg.SvgGroup : ID= : url(#clip12)
+        - Svg.SvgPath : ID=
+        - Svg.SvgPath : ID=
+  - Shopper : ID=TextBox_30--18
+  - Svg.SvgGroup : ID=Graphic_31--19 : url(#clip13)
+    - Svg.SvgGroup : ID= : url(#clip14)
+      - Svg.SvgGroup : ID= : url(#clip15)
+        - Svg.SvgPath : ID=
+        - Svg.SvgPath : ID=
+  - Order Manager : ID=TextBox_32--20
+  - Svg.SvgPath : ID=Rounded_Rectangle_33--21
+  - Managing Gift Cards : ID=Rounded_Rectangle_33--22
+  - Svg.SvgGroup : ID=Content_Placeholder_18--23 : url(#clip16)
+    - Svg.SvgGroup : ID= : url(#clip18)
+      - Svg.SvgUse : ID=
+  - Svg.SvgPath : ID=Content_Placeholder_18--24
+  - Svg.SvgGroup : ID=Content_Placeholder_21--25 : url(#clip19)
+    - Svg.SvgGroup : ID= : url(#clip21)
+      - Svg.SvgUse : ID=
+  - Svg.SvgPath : ID=Content_Placeholder_21--26
+  - Svg.SvgGroup : ID=Content_Placeholder_18--27 : url(#clip22)
+    - Svg.SvgGroup : ID= : url(#clip23)
+      - Svg.SvgUse : ID=
+  - Svg.SvgPath : ID=Content_Placeholder_18--28
+  - Svg.SvgGroup : ID=Content_Placeholder_21--29 : url(#clip24)
+    - Svg.SvgGroup : ID= : url(#clip25)
+      - Svg.SvgUse : ID=
+  - Svg.SvgPath : ID=Content_Placeholder_21--30
+  - Svg.SvgRectangle : ID=Rectangle_38--31
+  - Administrator : ID=Rectangle_38--32
+  - Svg.SvgRectangle : ID=Rectangle_39--33
+  - Administrator : ID=Rectangle_39--34
+  - Svg.SvgRectangle : ID=Rectangle_40--35
+  - Store Front : ID=Rectangle_40--36
+  - Svg.SvgRectangle : ID=Rectangle_41--37
+  - Store Front : ID=Rectangle_41--38
+  - Svg.SvgPath : ID=Straight_Arrow_Connector_42--39
+  - Svg.SvgPath : ID=Straight_Arrow_Connector_43--40
+  - Svg.SvgPath : ID=Straight_Arrow_Connector_44--41
+  - Svg.SvgPath : ID=Straight_Arrow_Connector_45--42
+  - Svg.SvgPath : ID=Straight_Arrow_Connector_46--43
+  - Svg.SvgPath : ID=Straight_Arrow_Connector_47--44
+  - Svg.SvgPath : ID=Straight_Arrow_Connector_48--45
+  - Svg.SvgPath : ID=Straight_Arrow_Connector_49--46
+  - Svg.SvgGroup : ID=Slide17--47 : url(#clip26)
+    - Svg.SvgGroup : ID= : url(#clip28)
+      - Svg.SvgUse : ID=
+  - John@ICompareSolutions.com : ID=Footer_Placeholder_3--48
+  - 17 : ID=Slide_Number_Placeholder_4--49

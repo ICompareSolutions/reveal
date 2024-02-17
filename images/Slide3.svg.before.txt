@@ -1,0 +1,242 @@
+**************************************
+C:\Users\JohnF\OneDrive\AgileSlides\d.docs.live.net\7068dd7de4bf55dd\Presentations\nop321\Promotion-Tools\Gift-Cards-AI.pptx.AgileSlides\images\slides\SVG\Slide3.svg
+
+**************************************
+layoutSlide.Name=No Content Area - Dev
+
+shape.Name=TopRectangle; CodeName=TopRectangle; Type=1; Visible = True; LineVisible = False; Text = 
+shape.Name=SectionNameTextPlaceholder; CodeName=SectionNameTextPlaceholder; Type=14; Visible = False; LineVisible = False; Text = {Section Name Here}
+shape.Name=FooterPlaceholder; CodeName=FooterPlaceholder; Type=14; Visible = True; LineVisible = False; Text = John@ICompareSolutions.com
+shape.Name=SlideNumberPlaceholder; CodeName=SlideNumberPlaceholder; Type=14; Visible = True; LineVisible = False; Text = ‹#›
+shape.Name=TitlePlaceholder; CodeName=TitlePlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Title Here}
+shape.Name=ReferenceTextPlaceholder; CodeName=ReferenceTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Reference Text Here}
+--------------------------------------
+slide.Name=Slide293
+
+shape.Name=Text Placeholder 3; CodeName=Text_Placeholder_3; Type=14; Visible = True; LineVisible = False; Text = 
+shape.Name=Title 2; CodeName=Title_2; Type=14; Visible = True; LineVisible = False; Text = Gift Cards - Workflow
+shape.Name=Text Placeholder 4; CodeName=Text_Placeholder_4; Type=14; Visible = True; LineVisible = False; Text = 
+shape.Name=Rounded Rectangle 7; CodeName=Rounded_Rectangle_7; Type=1; Visible = True; LineVisible = True; Text = Purchasing a Gift Card
+shape.Name=Graphic 8; CodeName=Graphic_8; Type=28; Visible = True; LineVisible = False; Text = 
+shape.Name=Graphic 9; CodeName=Graphic_9; Type=28; Visible = True; LineVisible = False; Text = 
+shape.Name=Rounded Rectangle 10; CodeName=Rounded_Rectangle_10; Type=1; Visible = True; LineVisible = True; Text = Adding a Gift Card
+shape.Name=TextBox 12; CodeName=TextBox_12; Type=17; Visible = True; LineVisible = False; Text = Product Manager
+shape.Name=TextBox 1; CodeName=TextBox_1; Type=17; Visible = True; LineVisible = False; Text = Shopper
+shape.Name=Rounded Rectangle 11; CodeName=Rounded_Rectangle_11; Type=1; Visible = True; LineVisible = True; Text = Using a Gift Card
+shape.Name=Graphic 13; CodeName=Graphic_13; Type=28; Visible = True; LineVisible = False; Text = 
+shape.Name=TextBox 14; CodeName=TextBox_14; Type=17; Visible = True; LineVisible = False; Text = Shopper
+shape.Name=Graphic 15; CodeName=Graphic_15; Type=28; Visible = True; LineVisible = False; Text = 
+shape.Name=TextBox 16; CodeName=TextBox_16; Type=17; Visible = True; LineVisible = False; Text = Order Manager
+shape.Name=Rounded Rectangle 17; CodeName=Rounded_Rectangle_17; Type=1; Visible = True; LineVisible = True; Text = Managing Gift Cards
+shape.Name=Content Placeholder 18; CodeName=Content_Placeholder_18; Type=13; Visible = True; LineVisible = True; Text = 
+shape.Name=Content Placeholder 19; CodeName=Content_Placeholder_19; Type=13; Visible = True; LineVisible = True; Text = 
+shape.Name=Content Placeholder 20; CodeName=Content_Placeholder_20; Type=13; Visible = True; LineVisible = True; Text = 
+shape.Name=Content Placeholder 21; CodeName=Content_Placeholder_21; Type=13; Visible = True; LineVisible = True; Text = 
+shape.Name=Graphic 22; CodeName=Graphic_22; Type=28; Visible = True; LineVisible = False; Text = 
+shape.Name=TextBox 23; CodeName=TextBox_23; Type=17; Visible = True; LineVisible = False; Text = Developer
+shape.Name=Picture 27; CodeName=Picture_27; Type=13; Visible = True; LineVisible = True; Text = 
+shape.Name=Graphic 30; CodeName=Graphic_30; Type=28; Visible = True; LineVisible = False; Text = 
+shape.Name=TextBox 31; CodeName=TextBox_31; Type=17; Visible = True; LineVisible = False; Text = DBA
+shape.Name=Rectangle 33; CodeName=Rectangle_33; Type=1; Visible = True; LineVisible = True; Text = Administrator
+shape.Name=Rectangle 34; CodeName=Rectangle_34; Type=1; Visible = True; LineVisible = True; Text = Administrator
+shape.Name=Rectangle 35; CodeName=Rectangle_35; Type=1; Visible = True; LineVisible = True; Text = Store Front
+shape.Name=Rectangle 36; CodeName=Rectangle_36; Type=1; Visible = True; LineVisible = True; Text = Store Front
+shape.Name=Rectangle 37; CodeName=Rectangle_37; Type=1; Visible = True; LineVisible = True; Text = SQL Server Studio
+shape.Name=Straight Arrow Connector 40; CodeName=Straight_Arrow_Connector_40; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Straight Arrow Connector 41; CodeName=Straight_Arrow_Connector_41; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Straight Arrow Connector 44; CodeName=Straight_Arrow_Connector_44; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Straight Arrow Connector 47; CodeName=Straight_Arrow_Connector_47; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Straight Arrow Connector 50; CodeName=Straight_Arrow_Connector_50; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Straight Arrow Connector 53; CodeName=Straight_Arrow_Connector_53; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Straight Arrow Connector 56; CodeName=Straight_Arrow_Connector_56; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Straight Arrow Connector 59; CodeName=Straight_Arrow_Connector_59; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Straight Arrow Connector 65; CodeName=Straight_Arrow_Connector_65; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Straight Arrow Connector 68; CodeName=Straight_Arrow_Connector_68; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Right Brace 83; CodeName=Right_Brace_83; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Picture 25; CodeName=Picture_25; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=Rectangle 38; CodeName=Rectangle_38; Type=1; Visible = True; LineVisible = True; Text = Visual Studio
+shape.Name=Slide3; CodeName=Slide3; Type=16; Visible = True; LineVisible = False; Text = 
+shape.Name=Footer Placeholder 5; CodeName=Footer_Placeholder_5; Type=14; Visible = True; LineVisible = False; Text = John@ICompareSolutions.com
+shape.Name=Slide Number Placeholder 6; CodeName=Slide_Number_Placeholder_6; Type=14; Visible = True; LineVisible = False; Text = 3
+
+======================================
+
+Svg.SvgDocument : ID=
+- Svg.SvgDefinitionList : ID=
+  - Svg.SvgClipPath : ID=clip0
+    - Svg.SvgRectangle : ID=
+  - url(#fill1) : ID=fill1
+    - Svg.SvgGradientStop : ID=
+    - Svg.SvgGradientStop : ID=
+    - Svg.SvgGradientStop : ID=
+    - Svg.SvgGradientStop : ID=
+  - Svg.SvgClipPath : ID=clip2
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip3
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip4
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip5
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip6
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip7
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip8
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip9
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip10
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip11
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip12
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip13
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip14
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img15
+  - Svg.SvgClipPath : ID=clip16
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip17
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img18
+  - Svg.SvgClipPath : ID=clip19
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip20
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip21
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip22
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip23
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip24
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip25
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip26
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip27
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img28
+  - Svg.SvgClipPath : ID=clip29
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip30
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip31
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip32
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip33
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img34
+  - Svg.SvgClipPath : ID=clip35
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip36
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img37
+  - Svg.SvgClipPath : ID=clip38
+    - Svg.SvgRectangle : ID=
+- Svg.SvgGroup : ID= : url(#clip0)
+  - Svg.SvgRectangle : ID=
+  - Svg.SvgRectangle : ID=
+  - Gift Cards : ID=
+  - - : ID=
+  - Workflow : ID=
+  - Svg.SvgPath : ID=
+  - Purchasing a Gift Card : ID=
+  - Svg.SvgGroup : ID= : url(#clip2)
+    - Svg.SvgGroup : ID= : url(#clip3)
+      - Svg.SvgGroup : ID= : url(#clip4)
+        - Svg.SvgPath : ID=
+        - Svg.SvgPath : ID=
+  - Svg.SvgGroup : ID= : url(#clip5)
+    - Svg.SvgGroup : ID= : url(#clip6)
+      - Svg.SvgGroup : ID= : url(#clip7)
+        - Svg.SvgPath : ID=
+        - Svg.SvgPath : ID=
+  - Svg.SvgPath : ID=
+  - Adding a Gift Card : ID=
+  - Product Manager : ID=
+  - Shopper : ID=
+  - Svg.SvgPath : ID=
+  - Using a Gift Card : ID=
+  - Svg.SvgGroup : ID= : url(#clip8)
+    - Svg.SvgGroup : ID= : url(#clip9)
+      - Svg.SvgGroup : ID= : url(#clip10)
+        - Svg.SvgPath : ID=
+        - Svg.SvgPath : ID=
+  - Shopper : ID=
+  - Svg.SvgGroup : ID= : url(#clip11)
+    - Svg.SvgGroup : ID= : url(#clip12)
+      - Svg.SvgGroup : ID= : url(#clip13)
+        - Svg.SvgPath : ID=
+        - Svg.SvgPath : ID=
+  - Order Manager : ID=
+  - Svg.SvgPath : ID=
+  - Managing Gift Cards : ID=
+  - Svg.SvgGroup : ID= : url(#clip14)
+    - Svg.SvgGroup : ID= : url(#clip16)
+      - Svg.SvgUse : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgGroup : ID= : url(#clip17)
+    - Svg.SvgGroup : ID= : url(#clip19)
+      - Svg.SvgUse : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgGroup : ID= : url(#clip20)
+    - Svg.SvgGroup : ID= : url(#clip21)
+      - Svg.SvgUse : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgGroup : ID= : url(#clip22)
+    - Svg.SvgGroup : ID= : url(#clip23)
+      - Svg.SvgUse : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgGroup : ID= : url(#clip24)
+    - Svg.SvgGroup : ID= : url(#clip25)
+      - Svg.SvgGroup : ID= : url(#clip26)
+        - Svg.SvgPath : ID=
+        - Svg.SvgPath : ID=
+  - Developer : ID=
+  - Svg.SvgGroup : ID= : url(#clip27)
+    - Svg.SvgGroup : ID= : url(#clip29)
+      - Svg.SvgUse : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgGroup : ID= : url(#clip30)
+    - Svg.SvgGroup : ID= : url(#clip31)
+      - Svg.SvgGroup : ID= : url(#clip32)
+        - Svg.SvgPath : ID=
+        - Svg.SvgPath : ID=
+  - DBA : ID=
+  - Svg.SvgRectangle : ID=
+  - Administrator : ID=
+  - Svg.SvgRectangle : ID=
+  - Administrator : ID=
+  - Svg.SvgRectangle : ID=
+  - Store Front : ID=
+  - Svg.SvgRectangle : ID=
+  - Store Front : ID=
+  - Svg.SvgRectangle : ID=
+  - SQL Server Studio : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgGroup : ID= : url(#clip33)
+    - Svg.SvgGroup : ID= : url(#clip35)
+      - Svg.SvgUse : ID=
+  - Svg.SvgRectangle : ID=
+  - Visual Studio : ID=
+  - Svg.SvgGroup : ID= : url(#clip36)
+    - Svg.SvgGroup : ID= : url(#clip38)
+      - Svg.SvgUse : ID=
+  - John@ICompareSolutions.com : ID=
+  - 3 : ID=

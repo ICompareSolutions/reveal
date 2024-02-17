@@ -1,0 +1,77 @@
+**************************************
+C:\Users\JohnF\OneDrive\AgileSlides\d.docs.live.net\7068dd7de4bf55dd\Presentations\nop321\Promotion-Tools\Gift-Cards-AI.pptx.AgileSlides\images\slides\SVG\Slide12.svg
+
+**************************************
+layoutSlide.Name=Full Content Area
+
+shape.Name=TopRectangle; CodeName=TopRectangle; Type=1; Visible = True; LineVisible = False; Text = 
+shape.Name=SectionNameTextPlaceholder; CodeName=SectionNameTextPlaceholder; Type=14; Visible = False; LineVisible = False; Text = {Section Name Here}
+shape.Name=FooterPlaceholder; CodeName=FooterPlaceholder; Type=14; Visible = True; LineVisible = False; Text = John@ICompareSolutions.com
+shape.Name=SlideNumberPlaceholder; CodeName=SlideNumberPlaceholder; Type=14; Visible = True; LineVisible = False; Text = ‹#›
+shape.Name=TitlePlaceholder; CodeName=TitlePlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Title Here}
+shape.Name=ReferenceTextPlaceholder; CodeName=ReferenceTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Reference Text Here}
+shape.Name=ContentPlaceholder; CodeName=ContentPlaceholder; Type=14; Visible = True; LineVisible = False; Text = First levelSecond levelThird levelFourth levelFifth level
+--------------------------------------
+slide.Name=Slide286
+
+shape.Name=Text Placeholder 1; CodeName=Text_Placeholder_1; Type=14; Visible = True; LineVisible = False; Text = 
+shape.Name=Title 2; CodeName=Title_2; Type=14; Visible = True; LineVisible = False; Text = Using a Gift Card
+shape.Name=Text Placeholder 3; CodeName=Text_Placeholder_3; Type=14; Visible = True; LineVisible = False; Text = Shopper
+shape.Name=Content Placeholder 4; CodeName=Content_Placeholder_4; Type=14; Visible = True; LineVisible = False; Text = (buy another item)(use only a portion of the card)
+shape.Name=Slide12; CodeName=Slide12; Type=16; Visible = True; LineVisible = False; Text = 
+shape.Name=Footer Placeholder 6; CodeName=Footer_Placeholder_6; Type=14; Visible = True; LineVisible = False; Text = John@ICompareSolutions.com
+shape.Name=Slide Number Placeholder 7; CodeName=Slide_Number_Placeholder_7; Type=14; Visible = True; LineVisible = False; Text = 12
+
+======================================
+
+Skipped Layout Shape: SectionNameTextPlaceholder - it is a Placeholder
+Skipped Layout Shape: FooterPlaceholder - it is a Placeholder
+Skipped Layout Shape: SlideNumberPlaceholder - it is a Placeholder
+Skipped Layout Shape: TitlePlaceholder - it is a Placeholder
+Skipped Layout Shape: ReferenceTextPlaceholder - it is a Placeholder
+Skipped Layout Shape: ContentPlaceholder - it is a Placeholder
+Skipped Shape: Text_Placeholder_1 - IsUsedIfPlaceHolder == false
+Set ID: Title_2
+Set ID: Text_Placeholder_3
+Held Shape: Content_Placeholder_4 - Rule 1 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = (buyanotheritem)(useonlyaportionofthecard)
+    elementText_NoSpaces = 
+Set ID: Content_Placeholder_4
+Held Shape: Content_Placeholder_4 - Rule 1 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = (buyanotheritem)(useonlyaportionofthecard)
+    elementText_NoSpaces = (buyanotheritem)
+Set ID: Content_Placeholder_4
+Held Shape: Content_Placeholder_4 - Rule 1 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = (buyanotheritem)(useonlyaportionofthecard)
+    elementText_NoSpaces = (buyanotheritem)
+Set ID: Content_Placeholder_4
+Set ID: Content_Placeholder_4
+Set ID: Slide12
+Set ID: Footer_Placeholder_6
+Set ID: Slide_Number_Placeholder_7
+Success = True
+
+======================================
+Svg.SvgDocument : ID=
+- Svg.SvgDefinitionList : ID=
+  - Svg.SvgClipPath : ID=clip0
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip1
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img2
+  - Svg.SvgClipPath : ID=clip3
+    - Svg.SvgRectangle : ID=
+- Svg.SvgGroup : ID=gSlide : url(#clip0)
+  - Svg.SvgRectangle : ID=rectSlide--0
+  - Svg.SvgRectangle : ID=TopRectangle--1
+  - Using a Gift Card : ID=Title_2--2
+  - Shopper : ID=Text_Placeholder_3--3
+  - • : ID=Content_Placeholder_4--4
+  - (buy another item) : ID=Content_Placeholder_4--5
+  - • : ID=Content_Placeholder_4--6
+  - (use only a portion of the card) : ID=Content_Placeholder_4--7
+  - Svg.SvgGroup : ID=Slide12--8 : url(#clip1)
+    - Svg.SvgGroup : ID= : url(#clip3)
+      - Svg.SvgUse : ID=
+  - John@ICompareSolutions.com : ID=Footer_Placeholder_6--9
+  - 12 : ID=Slide_Number_Placeholder_7--10
