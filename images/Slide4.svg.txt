@@ -1,0 +1,9 @@
+Hide Narration Shape: Slide4
+Animation Group: 1
+Animation Shape: Elbow_Connector_13
+Animation Shape: Picture_11
+Animation Shape: Picture_11
+Animation Group: 2
+Animation Shape: Rounded_Rectangular_Callout_15
+Animation Shape: Rounded_Rectangular_Callout_15
+Animation Shape: Rounded_Rectangular_Callout_15

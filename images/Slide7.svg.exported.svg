@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="1280" height="720" overflow="hidden">
+  <defs>
+    <clipPath id="clip0">
+      <rect x="0" y="0" width="6848475" height="5781675" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="729" height="614" xlink:href="images/Slide7--img1.jpg" id="img1" />
+    <clipPath id="clip2">
+      <rect x="0" y="0" width="6848475" height="5768126" />
+    </clipPath>
+    <clipPath id="clip3">
+      <rect x="0" y="0" width="609600" height="609600" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="64" height="64" xlink:href="images/Slide7--img4.png" id="img4" />
+    <clipPath id="clip5">
+      <rect x="-1" y="-0.5" width="609600" height="609600" />
+    </clipPath>
+  </defs>
+  <g id="gSlide--Slide550">
+    <rect x="0" y="0" width="1280" height="720" id="rectSlide--Slide550--0" style="fill:white;" />
+    <rect x="0" y="0" width="1280" height="67" id="TopRectangle--Slide550--1" style="fill:#5B9BD5;" />
+    <text transform="translate(16.3878, 46)" id="Title_19--Slide550--2" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="43" font-weight="300" style="fill:white;">Purchasing a Gift Card</text>
+    <text transform="translate(900.297, 26)" id="Text_Placeholder_22--Slide550--3" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#3B3838;">http://demo.nopcommerce.com/gift</text>
+    <text transform="translate(1218.09, 26)" id="Text_Placeholder_22--Slide550--4" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#3B3838;">-</text>
+    <text transform="translate(1224.59, 26)" id="Text_Placeholder_22--Slide550--5" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#3B3838;">cards</text>
+    <g clip-path="url(#clip0)" transform="matrix(0.000104987, 0, 0, 0.000104987, 280, 72)" id="Content_Placeholder_25--Slide550--6">
+      <g clip-path="url(#clip2)" transform="matrix(1, 0, 0, 1.00235, -0.25, -0.0625)">
+        <use xlink:href="#img1" width="100%" height="100%" transform="scale(9394.34)" />
+      </g>
+    </g>
+    <g id="Graphic_23--Slide550--7">
+      <g>
+        <g>
+          <path d="M39.3333 18.4375 C39.3333 23.8683 34.9308 28.2708 29.5 28.2708 C24.0692 28.2708 19.6667 23.8683 19.6667 18.4375 C19.6667 13.0067 24.0692 8.60417 29.5 8.60417 C34.9308 8.60417 39.3333 13.0067 39.3333 18.4375 Z" transform="matrix(1, 0, 0, 1.01695, 1169, 67)" style="fill:#70AD47;" />
+          <path d="M49.1667 50.3958 L49.1667 40.5625 C49.1667 39.0875 48.4292 37.6125 47.2 36.6292 C44.4958 34.4167 41.0542 32.9417 37.6125 31.9583 C35.1542 31.2208 32.45 30.7292 29.5 30.7292 C26.7958 30.7292 24.0917 31.2208 21.3875 31.9583 C17.9458 32.9417 14.5042 34.6625 11.8 36.6292 C10.5708 37.6125 9.83333 39.0875 9.83333 40.5625 L9.83333 50.3958 L49.1667 50.3958 Z" transform="matrix(1, 0, 0, 1.01695, 1169, 67)" style="fill:#70AD47;" />
+        </g>
+      </g>
+    </g>
+    <text transform="translate(1157.71, 149)" id="TextBox_24--Slide550--8" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400">Shopper</text>
+    <g clip-path="url(#clip3)" transform="matrix(0.000104987, 0, 0, 0.000104987, 1200, 640)" id="Slide7--Slide550--9" style="display:none;">
+      <g clip-path="url(#clip5)">
+        <use xlink:href="#img4" width="100%" height="100%" transform="matrix(9525, 0, 0, 9525, -1, -0.5)" />
+      </g>
+    </g>
+    <text transform="translate(542.999, 708)" id="Footer_Placeholder_2--Slide550--10" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="16" font-weight="400" style="fill:#767171;">John@ICompareSolutions.com</text>
+    <text transform="translate(1254.43, 708)" id="Slide_Number_Placeholder_3--Slide550--11" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="16" font-weight="400" style="fill:#767171;">7</text>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+Hide Narration Shape: Slide3
+Animation Group: 1
+Animation Shape: Picture_25
+Animation Shape: Rectangle_38
+Animation Shape: Rectangle_38
+Animation Shape: Straight_Arrow_Connector_65
+Animation Shape: Graphic_22
+Animation Shape: TextBox_23
+Animation Group: 2
+Animation Shape: Picture_27
+Animation Shape: Picture_27
+Animation Shape: Rectangle_37
+Animation Shape: Rectangle_37
+Animation Shape: Straight_Arrow_Connector_68
+Animation Shape: Graphic_30
+Animation Shape: TextBox_31

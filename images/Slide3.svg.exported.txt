@@ -1,0 +1,7 @@
+-- defs --
+img2
+img5
+img12
+img15
+img18
+-- g --

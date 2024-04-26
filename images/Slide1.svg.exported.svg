@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="1280" height="720" overflow="hidden">
+  <defs>
+    <clipPath id="clip0">
+      <rect x="0" y="4.65661E-10" width="2809875" height="2809875" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="415" height="415" xlink:href="images/Slide1--img1.jpg" id="img1" />
+    <clipPath id="clip2">
+      <rect x="-0.5" y="-0.25" width="2809875" height="2809875" />
+    </clipPath>
+    <clipPath id="clip3">
+      <rect x="0" y="0" width="2409825" height="1676400" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="400" height="400" xlink:href="images/Slide1--img4.jpg" id="img4" />
+    <clipPath id="clip5">
+      <rect x="0" y="299806" width="2409825" height="1671671" />
+    </clipPath>
+    <clipPath id="clip6">
+      <rect x="0" y="0" width="609600" height="609600" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="64" height="64" xlink:href="images/Slide1--img7.png" id="img7" />
+    <clipPath id="clip8">
+      <rect x="-1" y="-0.5" width="609600" height="609600" />
+    </clipPath>
+  </defs>
+  <g id="gSlide--Slide535">
+    <rect x="0" y="0" width="1280" height="720" id="rectSlide--Slide535--0" style="fill:white;" />
+    <rect x="0" y="0" width="1280" height="367" id="TopRectangle--Slide535--1" style="fill:#5B9BD5;" />
+    <g clip-path="url(#clip0)" transform="matrix(0.000104987, 0, 0, 0.000104987, 749, 374)" id="GiftCardImage--Slide535--2">
+      <g clip-path="url(#clip2)">
+        <use xlink:href="#img1" width="100%" height="100%" transform="matrix(6770.78, 0, 0, 6770.78, -0.5, -0.25)" />
+      </g>
+    </g>
+    <text transform="translate(42.5701, 339)" id="Title--Slide535--3" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="53" font-weight="300" style="fill:white;">Gift Cards</text>
+    <g clip-path="url(#clip3)" transform="matrix(0.000104987, 0, 0, 0.000104987, 978, 37)" id="NopLogo--Slide535--4">
+      <g clip-path="url(#clip5)" transform="matrix(1, 0, 0, 1.00283, 0, -300654)">
+        <use xlink:href="#img4" width="100%" height="100%" transform="scale(6024.56)" />
+      </g>
+    </g>
+    <g id="ShopperImage--Slide535--5" class="fragment" data-fragment-index="1">
+      <g>
+        <g>
+          <path d="M171 475.75 C171 481.273 166.523 485.75 161 485.75 C155.477 485.75 151 481.273 151 475.75 C151 470.227 155.477 465.75 161 465.75 C166.523 465.75 171 470.227 171 475.75 Z" style="fill:#70AD47;" />
+          <path d="M181 508.25 L181 498.25 C181 496.75 180.25 495.25 179 494.25 C176.25 492 172.75 490.5 169.25 489.5 C166.75 488.75 164 488.25 161 488.25 C158.25 488.25 155.5 488.75 152.75 489.5 C149.25 490.5 145.75 492.25 143 494.25 C141.75 495.25 141 496.75 141 498.25 L141 508.25 L181 508.25 Z" style="fill:#70AD47;" />
+        </g>
+      </g>
+    </g>
+    <text transform="translate(119.97, 538)" id="ShopperText--Slide535--6" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" class="fragment" data-fragment-index="1">Shopper</text>
+    <g id="ProductManagerImage--Slide535--7" class="fragment" data-fragment-index="2">
+      <g>
+        <g>
+          <path d="M39.3333 18.4375 C39.3333 23.8683 34.9308 28.2708 29.5 28.2708 C24.0692 28.2708 19.6667 23.8683 19.6667 18.4375 C19.6667 13.0067 24.0692 8.60417 29.5 8.60417 C34.9308 8.60417 39.3333 13.0067 39.3333 18.4375 Z" transform="matrix(1, 0, 0, 1.01695, 299, 457)" style="fill:#ED7D31;" />
+          <path d="M49.1667 50.3958 L49.1667 40.5625 C49.1667 39.0875 48.4292 37.6125 47.2 36.6292 C44.4958 34.4167 41.0542 32.9417 37.6125 31.9583 C35.1542 31.2208 32.45 30.7292 29.5 30.7292 C26.7958 30.7292 24.0917 31.2208 21.3875 31.9583 C17.9458 32.9417 14.5042 34.6625 11.8 36.6292 C10.5708 37.6125 9.83333 39.0875 9.83333 40.5625 L9.83333 50.3958 L49.1667 50.3958 Z" transform="matrix(1, 0, 0, 1.01695, 299, 457)" style="fill:#ED7D31;" />
+        </g>
+      </g>
+    </g>
+    <text transform="translate(243.939, 540)" id="ProductManagerText--Slide535--8" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" class="fragment" data-fragment-index="2">Product Manager</text>
+    <g id="OrderManagerImage--Slide535--9" class="fragment" data-fragment-index="3">
+      <g>
+        <g>
+          <path d="M39.3333 18.4375 C39.3333 23.8683 34.9308 28.2708 29.5 28.2708 C24.0692 28.2708 19.6667 23.8683 19.6667 18.4375 C19.6667 13.0067 24.0692 8.60417 29.5 8.60417 C34.9308 8.60417 39.3333 13.0067 39.3333 18.4375 Z" transform="matrix(1, 0, 0, 1.01695, 480, 457)" style="fill:#ED7D31;" />
+          <path d="M49.1667 50.3958 L49.1667 40.5625 C49.1667 39.0875 48.4292 37.6125 47.2 36.6292 C44.4958 34.4167 41.0542 32.9417 37.6125 31.9583 C35.1542 31.2208 32.45 30.7292 29.5 30.7292 C26.7958 30.7292 24.0917 31.2208 21.3875 31.9583 C17.9458 32.9417 14.5042 34.6625 11.8 36.6292 C10.5708 37.6125 9.83333 39.0875 9.83333 40.5625 L9.83333 50.3958 L49.1667 50.3958 Z" transform="matrix(1, 0, 0, 1.01695, 480, 457)" style="fill:#ED7D31;" />
+        </g>
+      </g>
+    </g>
+    <text transform="translate(434.466, 541)" id="OrderManagerText--Slide535--10" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" class="fragment" data-fragment-index="3">Order Manager</text>
+    <g clip-path="url(#clip6)" transform="matrix(0.000104987, 0, 0, 0.000104987, 1200, 640)" id="Slide280--Slide535--11" style="display:none;">
+      <g clip-path="url(#clip8)">
+        <use xlink:href="#img7" width="100%" height="100%" transform="matrix(9525, 0, 0, 9525, -1, -0.5)" />
+      </g>
+    </g>
+    <text transform="translate(542.999, 708)" id="Footer_Placeholder_12--Slide535--12" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="16" font-weight="400" style="fill:#767171;">John@ICompareSolutions.com</text>
+    <text transform="translate(1254.43, 708)" id="Slide_Number_Placeholder_13--Slide535--13" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="16" font-weight="400" style="fill:#767171;">1</text>
+  </g>
+</svg>

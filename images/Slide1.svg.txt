@@ -1,0 +1,10 @@
+Hide Narration Shape: Slide280
+Animation Group: 1
+Animation Shape: ShopperImage
+Animation Shape: ShopperText
+Animation Group: 2
+Animation Shape: ProductManagerImage
+Animation Shape: ProductManagerText
+Animation Group: 3
+Animation Shape: OrderManagerImage
+Animation Shape: OrderManagerText

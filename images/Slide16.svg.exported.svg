@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="1280" height="720" overflow="hidden">
+  <defs>
+    <linearGradient x1="640" y1="0" x2="640" y2="720" spreadMethod="reflect" gradientUnits="userSpaceOnUse" id="fill0">
+      <stop offset="0%" stop-color="#F6F8FC" />
+      <stop offset="74%" stop-color="#ABC0E4" />
+      <stop offset="83%" stop-color="#ABC0E4" />
+      <stop offset="100%" stop-color="#C7D5ED" />
+    </linearGradient>
+    <clipPath id="clip1">
+      <rect x="0" y="0" width="609600" height="609600" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="64" height="64" xlink:href="images/Slide16--img2.png" id="img2" />
+    <clipPath id="clip3">
+      <rect x="-1" y="-0.5" width="609600" height="609600" />
+    </clipPath>
+  </defs>
+  <g id="gSlide--Slide547">
+    <rect x="0" y="0" width="1280" height="720" id="rectSlide--Slide547--0" style="fill:url(#fill0);" />
+    <rect x="0" y="0" width="1280" height="67" id="TopRectangle--Slide547--1" style="fill:#5B9BD5;" />
+    <text transform="translate(16.3878, 46)" id="Title_2--Slide547--2" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="43" font-weight="300" style="fill:white;">Managing Gift Cards</text>
+    <text transform="translate(16.3877, 107)" id="Content_Placeholder_6--Slide547--3" font-family="Arial,Arial_MSFontService,sans-serif" font-size="37" font-weight="400" style="fill:#3B3838;">•</text>
+    <text transform="translate(40.3877, 107)" id="Content_Placeholder_6--Slide547--4" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="37" font-weight="400" style="fill:#3B3838;">(code)</text>
+    <g clip-path="url(#clip1)" transform="matrix(0.000104987, 0, 0, 0.000104987, 1200, 640)" id="Slide16--Slide547--5" style="display:none;">
+      <g clip-path="url(#clip3)">
+        <use xlink:href="#img2" width="100%" height="100%" transform="matrix(9525, 0, 0, 9525, -1, -0.5)" />
+      </g>
+    </g>
+    <text transform="translate(542.999, 708)" id="Footer_Placeholder_3--Slide547--6" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="16" font-weight="400" style="fill:#767171;">John@ICompareSolutions.com</text>
+    <text transform="translate(1246.27, 708)" id="Slide_Number_Placeholder_4--Slide547--7" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="16" font-weight="400" style="fill:#767171;">16</text>
+  </g>
+</svg>

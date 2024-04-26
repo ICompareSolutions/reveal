@@ -1,75 +1,304 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Reveal.js Presentation with SVG Fragments</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.1.0/reset.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.1.0/reveal.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.1.0/theme/black.css">
+    <title>Gift-Cards-AI.pptx</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="libs/revealjs/5.0.5/reset.css" />
+    <link rel="stylesheet" href="libs/revealjs/5.0.5/reveal.css" />
+    <link rel="stylesheet" href="libs/revealjs/5.0.5/theme/black.css" id="theme" />
+    <link rel="stylesheet" href="libs/font-awesome/6.5.1/css/all.min.css" />
+    <link rel="stylesheet" href="libs/revealjs/plugins/menu/menu.css" />
+    <link rel="stylesheet" href="libs/revealjs/plugins/customcontrols/style.css" />
+    <link rel="stylesheet" href="libs/revealjs/plugins/simplemenu/simplemenu.css" />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="icon" href="favicon.ico" />
 </head>
 <body>
-    <div class="reveal">
+    <div class="reveal" id="rootReveal">
+        <div class="menubar">
+            <ul class="menu">
+                <li><a href="#/slide1">Overview</a></li>
+                <li><a href="#/slide12">Using a Gift Card</a></li>
+                <li><a href="#/slide15">Managing Gift Cards</a></li>
+                <li><a href="#/slide17">Summary</a></li>
+            </ul>
+        </div>
         <div class="slides">
-            <section>
+            <section id="slide1" transition="fade" data-menu-title="Gift Cards">
                 <svg class="r-stretch"
                     data-src="images/Slide1.svg"
                     data-cache="disabled"
                     data-js="enabled"
                     data-unique-ids="enabled"
                 ></svg>
+                <aside class="notes">
+                    <span id="s1l1" class="line" data-section="slide1" data-type="narration" data-start="00.000" data-end="03.185" data-start-video="00.000" data-end-video="03.185">One of the product types in nopCommerce can be a Gift Card.</span>
+                    <br />
+                    <span id="s1l2" class="line" data-section="slide1" data-type="narration" data-start="03.186" data-end="05.433" data-start-video="03.186" data-end-video="05.433">Gift cards are used by Shoppers.</span>
+                    <br />
+                    <span id="s1l3" class="line" data-section="slide1" data-type="narration" data-start="05.434" data-end="08.319" data-start-video="05.434" data-end-video="08.319">Gift cards are created by Product Managers.</span>
+                    <br />
+                    <span id="s1l4" class="line" data-section="slide1" data-type="narration" data-start="08.320" data-end="11.027" data-start-video="08.320" data-end-video="11.027">Gift cards are managed by Order Managers.</span>
+                    <br />
+                </aside>
             </section>
-            <section>
+            <section id="slide2" transition="fade" data-menu-title="Gift Cards - Workflow">
                 <svg class="r-stretch"
                     data-src="images/Slide2.svg"
                     data-cache="disabled"
                     data-js="enabled"
                     data-unique-ids="enabled"
                 ></svg>
+                <aside class="notes">
+                    <span id="s2l1" class="line" data-section="slide2" data-type="narration" data-start="00.000" data-end="03.624" data-start-video="11.027" data-end-video="14.651">Gift cards are managed and utilized by a variety of roles.</span>
+                    <br />
+                    <span id="s2l2" class="line" data-section="slide2" data-type="narration" data-start="03.625" data-end="07.199" data-start-video="14.652" data-end-video="18.226">A Product Manager can add a gift card through the Administrator.</span>
+                    <br />
+                    <span id="s2l3" class="line" data-section="slide2" data-type="narration" data-start="07.200" data-end="09.636" data-start-video="18.227" data-end-video="20.663">Once the Gift Card product is available,</span>
+                    <br />
+                    <span id="s2l4" class="line" data-section="slide2" data-type="narration" data-start="09.637" data-end="11.845" data-start-video="20.664" data-end-video="22.872">a Shopper can then purchase the gift card,</span>
+                    <br />
+                    <span id="s2l5" class="line" data-section="slide2" data-type="narration" data-start="11.846" data-end="14.183" data-start-video="22.873" data-end-video="25.210">or use a gift card in the Store Front.</span>
+                    <br />
+                    <span id="s2l6" class="line" data-section="slide2" data-type="narration" data-start="14.184" data-end="15.523" data-start-video="25.211" data-end-video="26.550">The Order Manager</span>
+                    <br />
+                    <span id="s2l7" class="line" data-section="slide2" data-type="narration" data-start="15.524" data-end="18.320" data-start-video="26.551" data-end-video="29.347">can manage the gift cards through the Administrator.</span>
+                    <br />
+                </aside>
             </section>
-            <section>
+            <section id="slide3" transition="fade" data-menu-title="Gift Cards - Workflow">
                 <svg class="r-stretch"
                     data-src="images/Slide3.svg"
                     data-cache="disabled"
                     data-js="enabled"
                     data-unique-ids="enabled"
                 ></svg>
+                <aside class="notes">
+                    <span id="s3l1" class="line" data-section="slide3" data-type="narration" data-start="00.000" data-end="06.307" data-start-video="18.320" data-end-video="24.627">To understand how things work behind the scenes, we will review selected aspects of the code base and database structure.</span>
+                    <br />
+                    <span id="s3l2" class="line" data-section="slide3" data-type="narration" data-start="06.308" data-end="10.132" data-start-video="24.628" data-end-video="28.452">From a Developer�s perspective, we will review the code with Visual Studio.</span>
+                    <br />
+                    <span id="s3l3" class="line" data-section="slide3" data-type="narration" data-start="10.133" data-end="15.503" data-start-video="28.453" data-end-video="33.823">From a DBA�s perspective, we will review the database aspects with SQL Server Studio.</span>
+                    <br />
+                </aside>
             </section>
-            <section>
+            <section id="slide4" transition="fade" data-menu-title="Products – Adding a Gift Card">
                 <svg class="r-stretch"
                     data-src="images/Slide4.svg"
                     data-cache="disabled"
                     data-js="enabled"
                     data-unique-ids="enabled"
                 ></svg>
+                <aside class="notes">
+                    <span id="s4l1" class="line" data-section="slide4" data-type="narration" data-start="00.000" data-end="05.240" data-start-video="15.503" data-end-video="20.743">While the Product Manager is creating a product in the Administer, a gift card checkbox is available.</span>
+                    <br />
+                    <span id="s4l2" class="line" data-section="slide4" data-type="narration" data-start="05.241" data-end="11.469" data-start-video="20.744" data-end-video="26.972">By default, gift cards are not visible in �Basic� mode, and the Product Manager will need to switch to �Advanced� mode.</span>
+                    <br />
+                    <span id="s4l3" class="line" data-section="slide4" data-type="narration" data-start="11.470" data-end="15.523" data-start-video="26.973" data-end-video="31.026">Once the �Is gift card� checkbox is selected, more options will appear.</span>
+                    <br />
+                    <span id="s4l4" class="line" data-section="slide4" data-type="narration" data-start="15.524" data-end="19.477" data-start-video="31.027" data-end-video="34.980">A Product Manager can create either a �Virtual� or �Physical� gift card.</span>
+                    <br />
+                    <span id="s4l5" class="line" data-section="slide4" data-type="narration" data-start="19.478" data-end="21.845" data-start-video="34.981" data-end-video="37.348">The gift card can be specified amount,</span>
+                    <br />
+                    <span id="s4l6" class="line" data-section="slide4" data-type="narration" data-start="21.846" data-end="25.670" data-start-video="37.349" data-end-video="41.173">or the Shopper can enter a gift card amount that can be used after purchase.</span>
+                    <br />
+                    <span id="s4l7" class="line" data-section="slide4" data-type="narration" data-start="25.671" data-end="28.996" data-start-video="41.174" data-end-video="44.499">If not specified, then the product price will be used.</span>
+                    <br />
+                </aside>
             </section>
-            <section>
+            <section id="slide5" transition="fade" data-menu-title="Products – Adding a Gift Card">
                 <svg class="r-stretch"
                     data-src="images/Slide5.svg"
                     data-cache="disabled"
                     data-js="enabled"
                     data-unique-ids="enabled"
                 ></svg>
+                <aside class="notes">
+                    <span id="s5l1" class="line" data-section="slide5" data-type="narration" data-start="00.000" data-end="06.986" data-start-video="28.996" data-end-video="35.982">Products � Adding a Gift Card - Code Perspective -- NOTE: Need to explain how the checkbox toggles the user interface selection.</span>
+                    <br />
+                    <span id="s5l2" class="line" data-section="slide5" data-type="narration" data-start="06.987" data-end="09.942" data-start-video="35.983" data-end-video="38.938">It might be worth noting how localization is handled.</span>
+                    <br />
+                </aside>
             </section>
-            <section>
+            <section id="slide6" transition="fade" data-menu-title="Products – Adding a Gift Card">
                 <svg class="r-stretch"
                     data-src="images/Slide6.svg"
                     data-cache="disabled"
                     data-js="enabled"
                     data-unique-ids="enabled"
                 ></svg>
+                <aside class="notes">
+                    <span id="s6l1" class="line" data-section="slide6" data-type="narration" data-start="00.000" data-end="03.055" data-start-video="09.942" data-end-video="12.997">Products � Adding a Gift Card � DBA Perspective</span>
+                    <br />
+                </aside>
+            </section>
+            <section id="slide7" transition="fade" data-menu-title="Purchasing a Gift Card">
+                <svg class="r-stretch"
+                    data-src="images/Slide7.svg"
+                    data-cache="disabled"
+                    data-js="enabled"
+                    data-unique-ids="enabled"
+                ></svg>
+                <aside class="notes">
+                    <span id="s7l1" class="line" data-section="slide7" data-type="narration" data-start="00.000" data-end="02.546" data-start-video="03.055" data-end-video="05.601">Purchasing a Gift Card � User Perspective</span>
+                    <br />
+                </aside>
+            </section>
+            <section id="slide8" transition="fade" data-menu-title="Purchasing a Gift Card">
+                <svg class="r-stretch"
+                    data-src="images/Slide8.svg"
+                    data-cache="disabled"
+                    data-js="enabled"
+                    data-unique-ids="enabled"
+                ></svg>
+                <aside class="notes">
+                    <span id="s8l1" class="line" data-section="slide8" data-type="narration" data-start="00.000" data-end="03.913" data-start-video="02.546" data-end-video="06.459">Purchasing a Gift Card � Comparing Physical Cards to Virtual Cards</span>
+                    <br />
+                </aside>
+            </section>
+            <section id="slide9" transition="fade" data-menu-title="Purchasing a Gift Card">
+                <svg class="r-stretch"
+                    data-src="images/Slide9.svg"
+                    data-cache="disabled"
+                    data-js="enabled"
+                    data-unique-ids="enabled"
+                ></svg>
+                <aside class="notes">
+                    <span id="s9l1" class="line" data-section="slide9" data-type="narration" data-start="00.000" data-end="02.546" data-start-video="03.913" data-end-video="06.459">Purchasing a Gift Card � User Perspective</span>
+                    <br />
+                </aside>
+            </section>
+            <section id="slide10" transition="fade" data-menu-title="Purchasing a Gift Card">
+                <svg class="r-stretch"
+                    data-src="images/Slide10.svg"
+                    data-cache="disabled"
+                    data-js="enabled"
+                    data-unique-ids="enabled"
+                ></svg>
+                <aside class="notes">
+                    <span id="s10l1" class="line" data-section="slide10" data-type="narration" data-start="00.000" data-end="02.486" data-start-video="02.546" data-end-video="05.032">Purchasing a Gift Card � Code Perspective</span>
+                    <br />
+                </aside>
+            </section>
+            <section id="slide11" transition="fade" data-menu-title="Purchasing a Gift Card">
+                <svg class="r-stretch"
+                    data-src="images/Slide11.svg"
+                    data-cache="disabled"
+                    data-js="enabled"
+                    data-unique-ids="enabled"
+                ></svg>
+                <aside class="notes">
+                    <span id="s11l1" class="line" data-section="slide11" data-type="narration" data-start="00.000" data-end="02.835" data-start-video="02.486" data-end-video="05.321">Purchasing a Gift Card � DBA Perspective</span>
+                    <br />
+                </aside>
+            </section>
+            <section id="slide12" transition="fade" data-menu-title="Using a Gift Card">
+                <svg class="r-stretch"
+                    data-src="images/Slide12.svg"
+                    data-cache="disabled"
+                    data-js="enabled"
+                    data-unique-ids="enabled"
+                ></svg>
+                <aside class="notes">
+                    <span id="s12l1" class="line" data-section="slide12" data-type="narration" data-start="00.000" data-end="02.406" data-start-video="02.835" data-end-video="05.241">Using a Gift Card � User Perspective</span>
+                    <br />
+                </aside>
+            </section>
+            <section id="slide13" transition="fade" data-menu-title="Using a Gift Card">
+                <svg class="r-stretch"
+                    data-src="images/Slide13.svg"
+                    data-cache="disabled"
+                    data-js="enabled"
+                    data-unique-ids="enabled"
+                ></svg>
+                <aside class="notes">
+                    <span id="s13l1" class="line" data-section="slide13" data-type="narration" data-start="00.000" data-end="02.356" data-start-video="02.406" data-end-video="04.762">Using a Gift Card � Code Perspective</span>
+                    <br />
+                </aside>
+            </section>
+            <section id="slide14" transition="fade" data-menu-title="Using a Gift Card">
+                <svg class="r-stretch"
+                    data-src="images/Slide14.svg"
+                    data-cache="disabled"
+                    data-js="enabled"
+                    data-unique-ids="enabled"
+                ></svg>
+                <aside class="notes">
+                    <span id="s14l1" class="line" data-section="slide14" data-type="narration" data-start="00.000" data-end="02.706" data-start-video="02.356" data-end-video="05.062">Using a Gift Card � DBA Perspective</span>
+                    <br />
+                </aside>
+            </section>
+            <section id="slide15" transition="fade" data-menu-title="Managing Gift Cards">
+                <svg class="r-stretch"
+                    data-src="images/Slide15.svg"
+                    data-cache="disabled"
+                    data-js="enabled"
+                    data-unique-ids="enabled"
+                ></svg>
+                <aside class="notes">
+                    <span id="s15l1" class="line" data-section="slide15" data-type="narration" data-start="00.000" data-end="02.506" data-start-video="02.706" data-end-video="05.212">Managing Gift Cards � User Perspective</span>
+                    <br />
+                </aside>
+            </section>
+            <section id="slide16" transition="fade" data-menu-title="Managing Gift Cards">
+                <svg class="r-stretch"
+                    data-src="images/Slide16.svg"
+                    data-cache="disabled"
+                    data-js="enabled"
+                    data-unique-ids="enabled"
+                ></svg>
+                <aside class="notes">
+                    <span id="s16l1" class="line" data-section="slide16" data-type="narration" data-start="00.000" data-end="02.466" data-start-video="02.506" data-end-video="04.972">Managing Gift Cards � Code Perspective</span>
+                    <br />
+                </aside>
+            </section>
+            <section id="slide17" transition="fade" data-menu-title="Gift Cards - Workflow">
+                <svg class="r-stretch"
+                    data-src="images/Slide17.svg"
+                    data-cache="disabled"
+                    data-js="enabled"
+                    data-unique-ids="enabled"
+                ></svg>
+                <aside class="notes">
+                    <span id="s17l1" class="line" data-section="slide17" data-type="narration" data-start="00.000" data-end="01.987" data-start-video="02.466" data-end-video="04.453">Gift Cards � Workflow � Summary</span>
+                    <br />
+                </aside>
+            </section>
+            <section id="slide18" transition="fade" data-menu-title="Summary">
+                <svg class="r-stretch"
+                    data-src="images/Slide18.svg"
+                    data-cache="disabled"
+                    data-js="enabled"
+                    data-unique-ids="enabled"
+                ></svg>
+                <aside class="notes">
+                    <span id="s18l1" class="line" data-section="slide18" data-type="narration" data-start="00.000" data-end="02.336" data-start-video="01.987" data-end-video="04.323">Gift Cards � Summary � Other Resources</span>
+                    <br />
+                </aside>
             </section>
         </div>
     </div>
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.1.0/reveal.js"></script>
-    <script src="https://unpkg.com/external-svg-loader@latest/svg-loader.min.js" async></script>
-    <script>
-    Reveal.initialize({
-        controls: true,
-        progress: true,
-        hash: true,
-        width: "1280",
-		height: "800",
-    });
-    </script>
+    <!-- https://github.com/hakimel/reveal.js -->
+    <script src="libs/revealjs/5.0.5/reveal.js"></script>
+    <script src="libs/revealjs/5.0.5/plugin/zoom/zoom.js"></script>
+    <script src="libs/revealjs/5.0.5/plugin/notes/notes.js"></script>
+    <script src="libs/revealjs/5.0.5/plugin/search/search.js"></script>
+    <script src="libs/revealjs/5.0.5/plugin/markdown/markdown.js"></script>
+    <script src="libs/revealjs/5.0.5/plugin/highlight/highlight.js"></script>
+    <!-- https://github.com/FortAwesome/Font-Awesome -->
+    <script src="libs/font-awesome/6.5.1/js/all.min.js"></script>
+    <!-- https://github.com/denehyg/reveal.js-menu -->
+    <script src="libs/revealjs/plugins/menu/menu.js"></script>
+    <!-- https://github.com/rajgoel/reveal.js-plugins/ -->
+    <script src="libs/revealjs/plugins/customcontrols/plugin.js"></script>
+    <!-- audio-slideshow -->
+    <script src="libs/revealjs/plugins/audio-slideshow/plugin.js"></script>
+    <script src="libs/revealjs/plugins/audio-slideshow/recorder.js"></script>
+    <script src="libs/revealjs/plugins/audio-slideshow/RecordRTC.js"></script>
+    <!-- https://github.com/martinomagnifico/reveal.js-simplemenu -->
+    <script src="libs/revealjs/plugins/simplemenu/simplemenu.js"></script>
+    <!-- https://github.com/shubhamjain/svg-loader -->
+    <script src="libs/svg-loader/svg-loader.min.js" async></script>
+    <script src="scripts.js"></script>
 </body>
 </html>

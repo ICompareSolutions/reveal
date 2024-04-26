@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="1280" height="720" overflow="hidden">
+  <defs>
+    <clipPath id="clip0">
+      <rect x="0" y="0" width="1466850" height="1104900" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="165" height="125" xlink:href="images/Slide2--img1.jpg" id="img1" />
+    <clipPath id="clip2">
+      <rect x="0" y="0" width="1458468" height="1104900" />
+    </clipPath>
+    <clipPath id="clip3">
+      <rect x="0" y="0" width="1466850" height="1104900" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="165" height="125" xlink:href="images/Slide2--img4.jpg" id="img4" />
+    <clipPath id="clip5">
+      <rect x="0" y="0" width="1458468" height="1104900" />
+    </clipPath>
+    <clipPath id="clip6">
+      <rect x="0" y="0" width="1466850" height="1114425" />
+    </clipPath>
+    <clipPath id="clip7">
+      <rect x="0" y="0" width="1466850" height="1111250" />
+    </clipPath>
+    <clipPath id="clip8">
+      <rect x="0" y="0" width="1466850" height="1114425" />
+    </clipPath>
+    <clipPath id="clip9">
+      <rect x="0" y="0" width="1466850" height="1111250" />
+    </clipPath>
+    <clipPath id="clip10">
+      <rect x="0" y="0" width="609600" height="609600" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="64" height="64" xlink:href="images/Slide2--img11.png" id="img11" />
+    <clipPath id="clip12">
+      <rect x="-1" y="-0.5" width="609600" height="609600" />
+    </clipPath>
+  </defs>
+  <g id="gSlide--Slide538">
+    <rect x="0" y="0" width="1280" height="720" id="rectSlide--Slide538--0" style="fill:white;" />
+    <rect x="0" y="0" width="1280" height="67" id="TopRectangle--Slide538--1" style="fill:#5B9BD5;" />
+    <text transform="translate(16.3878, 46)" id="Title--Slide538--2" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="43" font-weight="300" style="fill:white;">Gift Cards</text>
+    <text transform="translate(194.594, 46)" id="Title--Slide538--3" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="43" font-weight="300" style="fill:white;">-</text>
+    <text transform="translate(217.261, 46)" id="Title--Slide538--4" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="43" font-weight="300" style="fill:white;">Workflow</text>
+    <path d="M472.5 272.833 C472.5 266.574 477.574 261.5 483.833 261.5 L797.167 261.5 C803.426 261.5 808.5 266.574 808.5 272.833 L808.5 318.167 C808.5 324.426 803.426 329.5 797.167 329.5 L483.833 329.5 C477.574 329.5 472.5 324.426 472.5 318.167 Z" id="Rounded_Rectangle_22--Slide538--5" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment" data-fragment-index="2" style="fill:#4472C4;stroke:#2F528F;" />
+    <text transform="translate(532.423, 303)" id="Rounded_Rectangle_22--Slide538--6" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" class="fragment" data-fragment-index="2" style="fill:white;">Purchasing a Gift Card</text>
+    <g id="Graphic_23--Slide538--7" class="fragment" data-fragment-index="2">
+      <g>
+        <g>
+          <path d="M39.3333 18.4375 C39.3333 23.8683 34.9308 28.2708 29.5 28.2708 C24.0692 28.2708 19.6667 23.8683 19.6667 18.4375 C19.6667 13.0067 24.0692 8.60417 29.5 8.60417 C34.9308 8.60417 39.3333 13.0067 39.3333 18.4375 Z" transform="matrix(1, 0, 0, 1.01695, 96, 265)" style="fill:#70AD47;" />
+          <path d="M49.1667 50.3958 L49.1667 40.5625 C49.1667 39.0875 48.4292 37.6125 47.2 36.6292 C44.4958 34.4167 41.0542 32.9417 37.6125 31.9583 C35.1542 31.2208 32.45 30.7292 29.5 30.7292 C26.7958 30.7292 24.0917 31.2208 21.3875 31.9583 C17.9458 32.9417 14.5042 34.6625 11.8 36.6292 C10.5708 37.6125 9.83333 39.0875 9.83333 40.5625 L9.83333 50.3958 L49.1667 50.3958 Z" transform="matrix(1, 0, 0, 1.01695, 96, 265)" style="fill:#70AD47;" />
+        </g>
+      </g>
+    </g>
+    <g id="Graphic_24--Slide538--8" class="fragment" data-fragment-index="1">
+      <g>
+        <g>
+          <path d="M135.333 144.438 C135.333 149.868 130.931 154.271 125.5 154.271 C120.069 154.271 115.667 149.868 115.667 144.438 C115.667 139.007 120.069 134.604 125.5 134.604 C130.931 134.604 135.333 139.007 135.333 144.438 Z" style="fill:#ED7D31;" />
+          <path d="M145.167 176.396 L145.167 166.562 C145.167 165.087 144.429 163.613 143.2 162.629 C140.496 160.417 137.054 158.942 133.613 157.958 C131.154 157.221 128.45 156.729 125.5 156.729 C122.796 156.729 120.092 157.221 117.387 157.958 C113.946 158.942 110.504 160.663 107.8 162.629 C106.571 163.613 105.833 165.087 105.833 166.562 L105.833 176.396 L145.167 176.396 Z" style="fill:#ED7D31;" />
+        </g>
+      </g>
+    </g>
+    <path d="M472.5 133.833 C472.5 127.574 477.574 122.5 483.833 122.5 L797.167 122.5 C803.426 122.5 808.5 127.574 808.5 133.833 L808.5 179.167 C808.5 185.426 803.426 190.5 797.167 190.5 L483.833 190.5 C477.574 190.5 472.5 185.426 472.5 179.167 Z" id="Rounded_Rectangle_25--Slide538--9" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment" data-fragment-index="1" style="fill:#4472C4;stroke:#2F528F;" />
+    <text transform="translate(551.163, 164)" id="Rounded_Rectangle_25--Slide538--10" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" class="fragment" data-fragment-index="1" style="fill:white;">Adding a Gift Card</text>
+    <text transform="translate(40.5675, 208)" id="TextBox_26--Slide538--11" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" class="fragment" data-fragment-index="1">Product Manager</text>
+    <text transform="translate(84.3573, 346)" id="TextBox_27--Slide538--12" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" class="fragment" data-fragment-index="2">Shopper</text>
+    <path d="M472.5 421.833 C472.5 415.574 477.574 410.5 483.833 410.5 L797.167 410.5 C803.426 410.5 808.5 415.574 808.5 421.833 L808.5 467.167 C808.5 473.426 803.426 478.5 797.167 478.5 L483.833 478.5 C477.574 478.5 472.5 473.426 472.5 467.167 Z" id="Rounded_Rectangle_28--Slide538--13" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment" data-fragment-index="3" style="fill:#4472C4;stroke:#2F528F;" />
+    <text transform="translate(558.413, 452)" id="Rounded_Rectangle_28--Slide538--14" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" class="fragment" data-fragment-index="3" style="fill:white;">Using a Gift Card</text>
+    <g id="Graphic_29--Slide538--15" class="fragment" data-fragment-index="3">
+      <g>
+        <g>
+          <path d="M39.3333 18.4375 C39.3333 23.8683 34.9308 28.2708 29.5 28.2708 C24.0692 28.2708 19.6667 23.8683 19.6667 18.4375 C19.6667 13.0067 24.0692 8.60417 29.5 8.60417 C34.9308 8.60417 39.3333 13.0067 39.3333 18.4375 Z" transform="matrix(1, 0, 0, 1.01695, 96, 414)" style="fill:#70AD47;" />
+          <path d="M49.1667 50.3958 L49.1667 40.5625 C49.1667 39.0875 48.4292 37.6125 47.2 36.6292 C44.4958 34.4167 41.0542 32.9417 37.6125 31.9583 C35.1542 31.2208 32.45 30.7292 29.5 30.7292 C26.7958 30.7292 24.0917 31.2208 21.3875 31.9583 C17.9458 32.9417 14.5042 34.6625 11.8 36.6292 C10.5708 37.6125 9.83333 39.0875 9.83333 40.5625 L9.83333 50.3958 L49.1667 50.3958 Z" transform="matrix(1, 0, 0, 1.01695, 96, 414)" style="fill:#70AD47;" />
+        </g>
+      </g>
+    </g>
+    <text transform="translate(80.4158, 497)" id="TextBox_30--Slide538--16" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" class="fragment" data-fragment-index="3">Shopper</text>
+    <g id="Graphic_31--Slide538--17" class="fragment" data-fragment-index="4">
+      <g>
+        <g>
+          <path d="M135.333 572.438 C135.333 577.868 130.931 582.271 125.5 582.271 C120.069 582.271 115.667 577.868 115.667 572.438 C115.667 567.007 120.069 562.604 125.5 562.604 C130.931 562.604 135.333 567.007 135.333 572.438 Z" style="fill:#ED7D31;" />
+          <path d="M145.167 604.396 L145.167 594.562 C145.167 593.088 144.429 591.612 143.2 590.629 C140.496 588.417 137.054 586.942 133.613 585.958 C131.154 585.221 128.45 584.729 125.5 584.729 C122.796 584.729 120.092 585.221 117.387 585.958 C113.946 586.942 110.504 588.662 107.8 590.629 C106.571 591.612 105.833 593.088 105.833 594.562 L105.833 604.396 L145.167 604.396 Z" style="fill:#ED7D31;" />
+        </g>
+      </g>
+    </g>
+    <text transform="translate(50.3704, 638)" id="TextBox_32--Slide538--18" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" class="fragment" data-fragment-index="4">Order Manager</text>
+    <path d="M472.5 560.833 C472.5 554.574 477.574 549.5 483.833 549.5 L797.167 549.5 C803.426 549.5 808.5 554.574 808.5 560.833 L808.5 606.167 C808.5 612.426 803.426 617.5 797.167 617.5 L483.833 617.5 C477.574 617.5 472.5 612.426 472.5 606.167 Z" id="Rounded_Rectangle_33--Slide538--19" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment" data-fragment-index="4" style="fill:#4472C4;stroke:#2F528F;" />
+    <text transform="translate(540.83, 591)" id="Rounded_Rectangle_33--Slide538--20" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" class="fragment" data-fragment-index="4" style="fill:white;">Managing Gift Cards</text>
+    <g clip-path="url(#clip0)" transform="matrix(0.000104987, 0, 0, 0.000104987, 260, 237)" id="Content_Placeholder_18--Slide538--21" class="fragment" data-fragment-index="2">
+      <g clip-path="url(#clip2)" transform="matrix(1.00575, 0, 0, 1, -0.25, 0)">
+        <use xlink:href="#img1" width="100%" height="100%" transform="scale(8839.2)" />
+      </g>
+    </g>
+    <path d="M259.5 236.5 L414.5 236.5 L414.5 353.5 L259.5 353.5 Z" id="Content_Placeholder_18--Slide538--22" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="10" class="fragment" data-fragment-index="2" style="fill:none;stroke:#5B9BD5;" />
+    <g clip-path="url(#clip3)" transform="matrix(0.000104987, 0, 0, 0.000104987, 260, 98)" id="Content_Placeholder_19--Slide538--23" class="fragment" data-fragment-index="1">
+      <g clip-path="url(#clip5)" transform="matrix(1.00575, 0, 0, 1, -0.25, 0)">
+        <use xlink:href="#img4" width="100%" height="100%" transform="scale(8839.2)" />
+      </g>
+    </g>
+    <path d="M259.5 97.5 L414.5 97.5 L414.5 214.5 L259.5 214.5 Z" id="Content_Placeholder_19--Slide538--24" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="10" class="fragment" data-fragment-index="1" style="fill:none;stroke:#5B9BD5;" />
+    <g clip-path="url(#clip6)" transform="matrix(0.000104987, 0, 0, 0.000104987, 263, 386)" id="Content_Placeholder_20--Slide538--25" class="fragment" data-fragment-index="3">
+      <g clip-path="url(#clip7)" transform="matrix(1, 0, 0, 1.00286, 0, -0.25)">
+        <use xlink:href="#img1" width="100%" height="100%" transform="scale(8890)" />
+      </g>
+    </g>
+    <path d="M262.5 385.5 L417.5 385.5 L417.5 503.5 L262.5 503.5 Z" id="Content_Placeholder_20--Slide538--26" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="10" class="fragment" data-fragment-index="3" style="fill:none;stroke:#5B9BD5;" />
+    <g clip-path="url(#clip8)" transform="matrix(0.000104987, 0, 0, 0.000104987, 263, 525)" id="Content_Placeholder_21--Slide538--27" class="fragment" data-fragment-index="4">
+      <g clip-path="url(#clip9)" transform="matrix(1, 0, 0, 1.00286, 0, -0.5)">
+        <use xlink:href="#img4" width="100%" height="100%" transform="scale(8890)" />
+      </g>
+    </g>
+    <path d="M262.5 524.5 L417.5 524.5 L417.5 642.5 L262.5 642.5 Z" id="Content_Placeholder_21--Slide538--28" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="10" class="fragment" data-fragment-index="4" style="fill:none;stroke:#5B9BD5;" />
+    <rect x="260.5" y="172.5" width="154" height="38" id="Rectangle_38--Slide538--29" stroke-width="1.33333" stroke-miterlimit="8" fill-opacity="0.8" class="fragment" data-fragment-index="1" style="fill:#4472C4;stroke:#2F528F;" />
+    <text transform="translate(276.997, 198)" id="Rectangle_38--Slide538--30" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" class="fragment" data-fragment-index="1" style="fill:white;">Administrator</text>
+    <rect x="263.5" y="600.5" width="154" height="39" id="Rectangle_39--Slide538--31" stroke-width="1.33333" stroke-miterlimit="8" fill-opacity="0.8" class="fragment" data-fragment-index="4" style="fill:#4472C4;stroke:#2F528F;" />
+    <text transform="translate(280.045, 626)" id="Rectangle_39--Slide538--32" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" class="fragment" data-fragment-index="4" style="fill:white;">Administrator</text>
+    <rect x="261.5" y="459.5" width="154" height="39" id="Rectangle_40--Slide538--33" stroke-width="1.33333" stroke-miterlimit="8" fill-opacity="0.8" class="fragment" data-fragment-index="3" style="fill:#4472C4;stroke:#2F528F;" />
+    <text transform="translate(289.522, 486)" id="Rectangle_40--Slide538--34" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" class="fragment" data-fragment-index="3" style="fill:white;">Store Front</text>
+    <rect x="260.5" y="309.5" width="154" height="38" id="Rectangle_41--Slide538--35" stroke-width="1.33333" stroke-miterlimit="8" fill-opacity="0.8" class="fragment" data-fragment-index="2" style="fill:#4472C4;stroke:#2F528F;" />
+    <text transform="translate(288.054, 335)" id="Rectangle_41--Slide538--36" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" class="fragment" data-fragment-index="2" style="fill:white;">Store Front</text>
+    <path d="M155.018 152 L244.586 152.548 L244.55 158.548 L154.982 158 Z M241.623 146.53 L259.568 155.64 L241.513 164.53 Z" id="Straight_Arrow_Connector_42--Slide538--37" class="fragment" data-fragment-index="1" style="fill:#4472C4;" />
+    <path d="M0.00124878 -3 L43.2627 -2.98199 L43.2602 3.01801 L-0.00124878 3 Z M40.2652 -8.98324 L58.2614 0.024252 L40.2577 9.01676 Z" transform="matrix(1, 0, 0, -1, 414, 156.024)" id="Straight_Arrow_Connector_43--Slide538--38" class="fragment" data-fragment-index="1" style="fill:#4472C4;" />
+    <path d="M5.406E-06 -3 L43.2613 -2.99992 L43.2613 3.00008 L-5.406E-06 3 Z M40.2613 -8.99993 L58.2613 0.000104987 L40.2613 9.00007 Z" transform="matrix(1, 0, 0, -1, 414, 295)" id="Straight_Arrow_Connector_44--Slide538--39" class="fragment" data-fragment-index="2" style="fill:#4472C4;" />
+    <path d="M155 292 L244.568 292 L244.568 298 L155 298 Z M241.568 286 L259.568 295 L241.568 304 Z" id="Straight_Arrow_Connector_45--Slide538--40" class="fragment" data-fragment-index="2" style="fill:#4472C4;" />
+    <path d="M155.001 441 L247.617 441.021 L247.615 447.021 L154.999 447 Z M244.618 435.02 L262.616 444.024 L244.614 453.02 Z" id="Straight_Arrow_Connector_46--Slide538--41" class="fragment" data-fragment-index="3" style="fill:#4472C4;" />
+    <path d="M0.0115224 -2.99998 L92.6276 -2.64426 L92.6045 3.3557 L-0.0115224 2.99998 Z M89.6507 -8.65573 L107.616 0.413333 L89.5815 9.34413 Z" transform="matrix(1, 0, 0, -1, 155, 583.413)" id="Straight_Arrow_Connector_47--Slide538--42" class="fragment" data-fragment-index="4" style="fill:#4472C4;" />
+    <path d="M5.70442E-06 -3 L40.2134 -2.99992 L40.2134 3.00008 L-5.70442E-06 3 Z M37.2135 -8.99993 L55.2134 0.000104987 L37.2134 9.00007 Z" transform="matrix(1, 0, 0, -1, 417, 444)" id="Straight_Arrow_Connector_48--Slide538--43" class="fragment" data-fragment-index="3" style="fill:#4472C4;" />
+    <path d="M5.70442E-06 -3 L40.2134 -2.99992 L40.2134 3.00008 L-5.70442E-06 3 Z M37.2135 -8.99993 L55.2134 0.000104987 L37.2134 9.00007 Z" transform="matrix(1, 0, 0, -1, 417, 583)" id="Straight_Arrow_Connector_49--Slide538--44" class="fragment" data-fragment-index="4" style="fill:#4472C4;" />
+    <g clip-path="url(#clip10)" transform="matrix(0.000104987, 0, 0, 0.000104987, 1200, 640)" id="Slide283--Slide538--45" style="display:none;">
+      <g clip-path="url(#clip12)">
+        <use xlink:href="#img11" width="100%" height="100%" transform="matrix(9525, 0, 0, 9525, -1, -0.5)" />
+      </g>
+    </g>
+    <text transform="translate(542.999, 708)" id="Footer_Placeholder_8--Slide538--46" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="16" font-weight="400" style="fill:#767171;">John@ICompareSolutions.com</text>
+    <text transform="translate(1254.43, 708)" id="Slide_Number_Placeholder_9--Slide538--47" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="16" font-weight="400" style="fill:#767171;">2</text>
+  </g>
+</svg>

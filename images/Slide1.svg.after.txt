@@ -10,7 +10,6 @@ shape.Name=FooterPlaceholder; CodeName=FooterPlaceholder; Type=14; Visible = Tru
 shape.Name=SlideNumberPlaceholder; CodeName=SlideNumberPlaceholder; Type=14; Visible = True; LineVisible = False; Text = ‹#›
 shape.Name=SectionNameTextPlaceholder; CodeName=SectionNameTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Section Name Here}
 shape.Name=GuideRectangle; CodeName=GuideRectangle; Type=1; Visible = False; LineVisible = True; Text = 
-shape.Name=Picture 10; CodeName=Picture_10; Type=13; Visible = True; LineVisible = False; Text = 
 --------------------------------------
 slide.Name=Slide280
 
@@ -33,6 +32,7 @@ Skipped Layout Shape: ContentPlaceholder - it is a Placeholder
 Skipped Layout Shape: FooterPlaceholder - it is a Placeholder
 Skipped Layout Shape: SlideNumberPlaceholder - it is a Placeholder
 Skipped Layout Shape: SectionNameTextPlaceholder - it is a Placeholder
+Skipped Layout Shape: GuideRectangle - not visible.
 Set ID: GiftCardImage
 Set ID: Title
 Set ID: NopLogo
@@ -44,6 +44,7 @@ Set ID: OrderManagerImage
 Set ID: OrderManagerText
 Set ID: Slide280
 Set ID: Footer_Placeholder_12
+Set ID: Slide_Number_Placeholder_13
 Success = True
 
 ======================================
@@ -51,77 +52,49 @@ Svg.SvgDocument : ID=
 - Svg.SvgDefinitionList : ID=
   - Svg.SvgClipPath : ID=clip0
     - Svg.SvgRectangle : ID=
-  - Svg.SvgClipPath : ID=clip1
+  - Svg.SvgImage : ID=img1
+  - Svg.SvgClipPath : ID=clip2
     - Svg.SvgRectangle : ID=
-  - Svg.SvgImage : ID=img2
   - Svg.SvgClipPath : ID=clip3
     - Svg.SvgRectangle : ID=
-  - Svg.SvgClipPath : ID=clip4
+  - Svg.SvgImage : ID=img4
+  - Svg.SvgClipPath : ID=clip5
     - Svg.SvgRectangle : ID=
-  - Svg.SvgImage : ID=img5
   - Svg.SvgClipPath : ID=clip6
     - Svg.SvgRectangle : ID=
-  - Svg.SvgClipPath : ID=clip7
+  - Svg.SvgImage : ID=img7
+  - Svg.SvgClipPath : ID=clip8
     - Svg.SvgRectangle : ID=
-  - Svg.SvgImage : ID=img8
-  - Svg.SvgClipPath : ID=clip9
-    - Svg.SvgRectangle : ID=
-  - Svg.SvgClipPath : ID=clip10
-    - Svg.SvgRectangle : ID=
-  - Svg.SvgClipPath : ID=clip11
-    - Svg.SvgRectangle : ID=
-  - Svg.SvgClipPath : ID=clip12
-    - Svg.SvgRectangle : ID=
-  - Svg.SvgClipPath : ID=clip13
-    - Svg.SvgRectangle : ID=
-  - Svg.SvgClipPath : ID=clip14
-    - Svg.SvgRectangle : ID=
-  - Svg.SvgClipPath : ID=clip15
-    - Svg.SvgRectangle : ID=
-  - Svg.SvgClipPath : ID=clip16
-    - Svg.SvgRectangle : ID=
-  - Svg.SvgClipPath : ID=clip17
-    - Svg.SvgRectangle : ID=
-  - Svg.SvgClipPath : ID=clip18
-    - Svg.SvgRectangle : ID=
-  - Svg.SvgClipPath : ID=clip19
-    - Svg.SvgRectangle : ID=
-  - Svg.SvgImage : ID=img20
-  - Svg.SvgClipPath : ID=clip21
-    - Svg.SvgRectangle : ID=
-- Svg.SvgGroup : ID=gSlide : url(#clip0)
-  - Svg.SvgRectangle : ID=rectSlide--0
-  - Svg.SvgRectangle : ID=TopRectangle--1
-  - Svg.SvgGroup : ID=GuideRectangle--2 : url(#clip1)
-    - Svg.SvgGroup : ID= : url(#clip3)
+- Svg.SvgGroup : ID=gSlide--Slide535 : 
+  - Svg.SvgRectangle : ID=rectSlide--Slide535--0
+  - Svg.SvgRectangle : ID=TopRectangle--Slide535--1
+  - Svg.SvgGroup : ID=GiftCardImage--Slide535--2 : url(#clip0)
+    - Svg.SvgGroup : ID= : url(#clip2)
       - Svg.SvgUse : ID=
-  - Svg.SvgGroup : ID=Picture_10--3 : url(#clip4)
-    - Svg.SvgGroup : ID= : url(#clip6)
+  - Gift Cards : ID=Title--Slide535--3
+  - Svg.SvgGroup : ID=NopLogo--Slide535--4 : url(#clip3)
+    - Svg.SvgGroup : ID= : url(#clip5)
       - Svg.SvgUse : ID=
-  - Gift Cards : ID=GiftCardImage--4
-  - Svg.SvgGroup : ID=Title--5 : url(#clip7)
-    - Svg.SvgGroup : ID= : url(#clip9)
+  - Svg.SvgGroup : ID=ShopperImage--Slide535--5 : 
+    - Svg.SvgGroup : ID= : 
+      - Svg.SvgGroup : ID= : 
+        - Svg.SvgPath : ID=
+        - Svg.SvgPath : ID=
+  - Shopper : ID=ShopperText--Slide535--6
+  - Svg.SvgGroup : ID=ProductManagerImage--Slide535--7 : 
+    - Svg.SvgGroup : ID= : 
+      - Svg.SvgGroup : ID= : 
+        - Svg.SvgPath : ID=
+        - Svg.SvgPath : ID=
+  - Product Manager : ID=ProductManagerText--Slide535--8
+  - Svg.SvgGroup : ID=OrderManagerImage--Slide535--9 : 
+    - Svg.SvgGroup : ID= : 
+      - Svg.SvgGroup : ID= : 
+        - Svg.SvgPath : ID=
+        - Svg.SvgPath : ID=
+  - Order Manager : ID=OrderManagerText--Slide535--10
+  - Svg.SvgGroup : ID=Slide280--Slide535--11 : url(#clip6)
+    - Svg.SvgGroup : ID= : url(#clip8)
       - Svg.SvgUse : ID=
-  - Svg.SvgGroup : ID=NopLogo--6 : url(#clip10)
-    - Svg.SvgGroup : ID= : url(#clip11)
-      - Svg.SvgGroup : ID= : url(#clip12)
-        - Svg.SvgPath : ID=
-        - Svg.SvgPath : ID=
-  - Shopper : ID=ShopperImage--7
-  - Svg.SvgGroup : ID=ShopperText--8 : url(#clip13)
-    - Svg.SvgGroup : ID= : url(#clip14)
-      - Svg.SvgGroup : ID= : url(#clip15)
-        - Svg.SvgPath : ID=
-        - Svg.SvgPath : ID=
-  - Product Manager : ID=ProductManagerImage--9
-  - Svg.SvgGroup : ID=ProductManagerText--10 : url(#clip16)
-    - Svg.SvgGroup : ID= : url(#clip17)
-      - Svg.SvgGroup : ID= : url(#clip18)
-        - Svg.SvgPath : ID=
-        - Svg.SvgPath : ID=
-  - Order Manager : ID=OrderManagerImage--11
-  - Svg.SvgGroup : ID=OrderManagerText--12 : url(#clip19)
-    - Svg.SvgGroup : ID= : url(#clip21)
-      - Svg.SvgUse : ID=
-  - John@ICompareSolutions.com : ID=Slide280--13
-  - 1 : ID=Footer_Placeholder_12--14
+  - John@ICompareSolutions.com : ID=Footer_Placeholder_12--Slide535--12
+  - 1 : ID=Slide_Number_Placeholder_13--Slide535--13

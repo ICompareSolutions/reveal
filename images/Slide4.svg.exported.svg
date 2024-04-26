@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="1280" height="720" overflow="hidden">
+  <defs>
+    <clipPath id="clip0">
+      <rect x="0" y="0" width="6686550" height="1228725" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="702" height="129" xlink:href="images/Slide4--img1.jpg" id="img1" />
+    <clipPath id="clip2">
+      <path d="M-0.0625 0 L6686550 0 L6686550 1228725 L0 1228725 Z" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+    <clipPath id="clip3">
+      <rect x="0" y="0" width="6667500" height="2085975" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="700" height="219" xlink:href="images/Slide4--img4.jpg" id="img4" />
+    <clipPath id="clip5">
+      <path d="M-0.25 -0.25 L6667500 -0.25 L6667500 2085975 L0 2085975 Z" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+    <clipPath id="clip6">
+      <rect x="0" y="0" width="609600" height="609600" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="64" height="64" xlink:href="images/Slide4--img7.png" id="img7" />
+    <clipPath id="clip8">
+      <rect x="-1" y="-0.5" width="609600" height="609600" />
+    </clipPath>
+  </defs>
+  <g id="gSlide--Slide539">
+    <rect x="0" y="0" width="1280" height="720" id="rectSlide--Slide539--0" style="fill:white;" />
+    <rect x="0" y="0" width="1280" height="67" id="TopRectangle--Slide539--1" style="fill:#5B9BD5;" />
+    <text transform="translate(16.3878, 46)" id="Title_2--Slide539--2" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="43" font-weight="300" style="fill:white;">Products</text>
+    <text transform="translate(176.468, 46)" id="Title_2--Slide539--3" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="43" font-weight="300" style="fill:white;">–</text>
+    <text transform="translate(207.468, 46)" id="Title_2--Slide539--4" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="43" font-weight="300" style="fill:white;">Adding a Gift Card</text>
+    <g id="Graphic_7--Slide539--5">
+      <g>
+        <g>
+          <path d="M39.3333 18.4375 C39.3333 23.8683 34.9308 28.2708 29.5 28.2708 C24.0692 28.2708 19.6667 23.8683 19.6667 18.4375 C19.6667 13.0067 24.0692 8.60417 29.5 8.60417 C34.9308 8.60417 39.3333 13.0067 39.3333 18.4375 Z" transform="matrix(1, 0, 0, 1.01695, 1155, 72)" style="fill:#ED7D31;" />
+          <path d="M49.1667 50.3958 L49.1667 40.5625 C49.1667 39.0875 48.4292 37.6125 47.2 36.6292 C44.4958 34.4167 41.0542 32.9417 37.6125 31.9583 C35.1542 31.2208 32.45 30.7292 29.5 30.7292 C26.7958 30.7292 24.0917 31.2208 21.3875 31.9583 C17.9458 32.9417 14.5042 34.6625 11.8 36.6292 C10.5708 37.6125 9.83333 39.0875 9.83333 40.5625 L9.83333 50.3958 L49.1667 50.3958 Z" transform="matrix(1, 0, 0, 1.01695, 1155, 72)" style="fill:#ED7D31;" />
+        </g>
+      </g>
+    </g>
+    <text transform="translate(1099.9, 155)" id="TextBox_8--Slide539--6" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400">Product Manager</text>
+    <g clip-path="url(#clip0)" transform="matrix(0.000104987, 0, 0, 0.000104987, 104, 126)" id="Picture_10--Slide539--7">
+      <g clip-path="url(#clip2)">
+        <use xlink:href="#img1" width="100%" height="100%" transform="matrix(9525, 0, 0, 9525, -0.0625, 0)" />
+      </g>
+    </g>
+    <path d="M103.5 125.5 L806.5 125.5 L806.5 255.5 L103.5 255.5 Z" id="Picture_10--Slide539--8" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="10" style="fill:none;stroke:#4472C4;" />
+    <g clip-path="url(#clip3)" transform="matrix(0.000104987, 0, 0, 0.000104987, 290, 270)" id="Picture_11--Slide539--9" class="fragment" data-fragment-index="1">
+      <g clip-path="url(#clip5)">
+        <use xlink:href="#img4" width="100%" height="100%" transform="matrix(9525, 0, 0, 9525, -0.25, -0.25)" />
+      </g>
+    </g>
+    <path d="M289.5 269.5 L990.5 269.5 L990.5 489.5 L289.5 489.5 Z" id="Picture_11--Slide539--10" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="10" class="fragment" data-fragment-index="1" style="fill:none;stroke:#4472C4;" />
+    <path d="M305 206 L490.747 206 L490.747 329.325 L484.747 329.325 L484.747 209 L487.747 212 L305 212 Z M496.747 326.325 L487.747 344.325 L478.747 326.325 Z" id="Elbow_Connector_13--Slide539--11" class="fragment" data-fragment-index="1" style="fill:#4472C4;" />
+    <path d="M305.5 523.333 C305.5 513.484 313.484 505.5 323.333 505.5 L417.833 505.5 L448.57 436.634 L586.333 505.5 L961.667 505.5 C971.516 505.5 979.5 513.484 979.5 523.333 L979.5 523.333 L979.5 523.333 L979.5 550.083 L979.5 594.667 C979.5 604.516 971.516 612.5 961.667 612.5 L586.333 612.5 L417.833 612.5 L417.833 612.5 L323.333 612.5 C313.484 612.5 305.5 604.516 305.5 594.667 L305.5 550.083 L305.5 523.333 L305.5 523.333 Z" id="Rounded_Rectangular_Callout_15--Slide539--12" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment" data-fragment-index="2" style="fill:#4472C4;stroke:#2F528F;" />
+    <text transform="translate(372.128, 552)" id="Rounded_Rectangular_Callout_15--Slide539--13" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" class="fragment" data-fragment-index="2" style="fill:white;">Enter gift card amount that can be used after purchase.</text>
+    <text transform="translate(390.041, 581)" id="Rounded_Rectangular_Callout_15--Slide539--14" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" class="fragment" data-fragment-index="2" style="fill:white;">If not specified, then the product price will be used.</text>
+    <g clip-path="url(#clip6)" transform="matrix(0.000104987, 0, 0, 0.000104987, 1200, 640)" id="Slide4--Slide539--15" style="display:none;">
+      <g clip-path="url(#clip8)">
+        <use xlink:href="#img7" width="100%" height="100%" transform="matrix(9525, 0, 0, 9525, -1, -0.5)" />
+      </g>
+    </g>
+    <text transform="translate(542.999, 708)" id="Footer_Placeholder_4--Slide539--16" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="16" font-weight="400" style="fill:#767171;">John@ICompareSolutions.com</text>
+    <text transform="translate(1254.43, 708)" id="Slide_Number_Placeholder_5--Slide539--17" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="16" font-weight="400" style="fill:#767171;">4</text>
+  </g>
+</svg>

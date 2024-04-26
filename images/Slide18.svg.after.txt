@@ -33,8 +33,13 @@ Skipped Layout Shape: FooterPlaceholder - it is a Placeholder
 Skipped Layout Shape: SlideNumberPlaceholder - it is a Placeholder
 Skipped Layout Shape: TitlePlaceholder - it is a Placeholder
 Skipped Layout Shape: ReferenceTextPlaceholder - it is a Placeholder
+Skipped Layout Shape: GuideRectangle - not visible.
 Skipped Layout Shape: SubTitleTextPlaceholder - it is a Placeholder
 Skipped Shape: Text_Placeholder_4 - IsUsedIfPlaceHolder == false
+Held Shape: Content_Placeholder_5 - Rule 1 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = NopDocsYouTubeNextSteps
+    elementText_NoSpaces = 
+Set ID: Content_Placeholder_5
 Held Shape: Content_Placeholder_5 - Rule 1 - shapeText_NoSpaces != elementText_NoSpaces
     shapeText_NoSpaces   = NopDocsYouTubeNextSteps
     elementText_NoSpaces = Nop
@@ -69,25 +74,23 @@ Svg.SvgDocument : ID=
 - Svg.SvgDefinitionList : ID=
   - Svg.SvgClipPath : ID=clip0
     - Svg.SvgRectangle : ID=
-  - Svg.SvgClipPath : ID=clip1
+  - Svg.SvgImage : ID=img1
+  - Svg.SvgClipPath : ID=clip2
     - Svg.SvgRectangle : ID=
-  - Svg.SvgImage : ID=img2
-  - Svg.SvgClipPath : ID=clip3
-    - Svg.SvgRectangle : ID=
-- Svg.SvgGroup : ID=gSlide : url(#clip0)
-  - Svg.SvgRectangle : ID=rectSlide--0
-  - Svg.SvgRectangle : ID=TopRectangle--1
-  - • : ID=GuideRectangle--2
-  - Nop : ID=Content_Placeholder_5--3
-  - Docs : ID=Content_Placeholder_5--4
-  - • : ID=Content_Placeholder_5--5
-  - YouTube : ID=Content_Placeholder_5--6
-  - • : ID=Content_Placeholder_5--7
-  - Next Steps : ID=Content_Placeholder_5--8
-  - Summary : ID=Title_3--9
-  - Other Resources : ID=Text_Placeholder_7--10
-  - Svg.SvgGroup : ID=Slide18--11 : url(#clip1)
-    - Svg.SvgGroup : ID= : url(#clip3)
+- Svg.SvgGroup : ID=gSlide--Slide536 : 
+  - Svg.SvgRectangle : ID=rectSlide--Slide536--0
+  - Svg.SvgRectangle : ID=TopRectangle--Slide536--1
+  - • : ID=Content_Placeholder_5--Slide536--2
+  - Nop : ID=Content_Placeholder_5--Slide536--3
+  - Docs : ID=Content_Placeholder_5--Slide536--4
+  - • : ID=Content_Placeholder_5--Slide536--5
+  - YouTube : ID=Content_Placeholder_5--Slide536--6
+  - • : ID=Content_Placeholder_5--Slide536--7
+  - Next Steps : ID=Content_Placeholder_5--Slide536--8
+  - Summary : ID=Title_3--Slide536--9
+  - Other Resources : ID=Text_Placeholder_7--Slide536--10
+  - Svg.SvgGroup : ID=Slide18--Slide536--11 : url(#clip0)
+    - Svg.SvgGroup : ID= : url(#clip2)
       - Svg.SvgUse : ID=
-  - John@ICompareSolutions.com : ID=Footer_Placeholder_2--12
-  - 18 : ID=Slide_Number_Placeholder_8--13
+  - John@ICompareSolutions.com : ID=Footer_Placeholder_2--Slide536--12
+  - 18 : ID=Slide_Number_Placeholder_8--Slide536--13

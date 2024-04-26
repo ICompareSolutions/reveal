@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="1280" height="720" overflow="hidden">
+  <defs>
+    <linearGradient x1="640" y1="0" x2="640" y2="720" spreadMethod="reflect" gradientUnits="userSpaceOnUse" id="fill0">
+      <stop offset="0%" stop-color="#F6F8FC" />
+      <stop offset="74%" stop-color="#ABC0E4" />
+      <stop offset="83%" stop-color="#ABC0E4" />
+      <stop offset="100%" stop-color="#C7D5ED" />
+    </linearGradient>
+    <clipPath id="clip1">
+      <rect x="0" y="0" width="609600" height="609600" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="64" height="64" xlink:href="images/Slide6--img2.png" id="img2" />
+    <clipPath id="clip3">
+      <rect x="-1" y="-0.5" width="609600" height="609600" />
+    </clipPath>
+  </defs>
+  <g id="gSlide--Slide549">
+    <rect x="0" y="0" width="1280" height="720" id="rectSlide--Slide549--0" style="fill:url(#fill0);" />
+    <rect x="0" y="0" width="1280" height="67" id="TopRectangle--Slide549--1" style="fill:#5B9BD5;" />
+    <text transform="translate(16.3878, 46)" id="Title_2--Slide549--2" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="43" font-weight="300" style="fill:white;">Products</text>
+    <text transform="translate(176.468, 46)" id="Title_2--Slide549--3" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="43" font-weight="300" style="fill:white;">–</text>
+    <text transform="translate(207.468, 46)" id="Title_2--Slide549--4" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="43" font-weight="300" style="fill:white;">Adding a Gift Card</text>
+    <text transform="translate(16.3877, 107)" id="Content_Placeholder_5--Slide549--5" font-family="Arial,Arial_MSFontService,sans-serif" font-size="37" font-weight="400" style="fill:#3B3838;">•</text>
+    <text transform="translate(40.3877, 107)" id="Content_Placeholder_5--Slide549--6" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="37" font-weight="400" style="fill:#3B3838;">Product Table</text>
+    <text transform="translate(64.3877, 150)" id="Content_Placeholder_5--Slide549--7" font-family="Arial,Arial_MSFontService,sans-serif" font-size="32" font-weight="400" style="fill:#3B3838;">•</text>
+    <text transform="translate(88.3877, 150)" id="Content_Placeholder_5--Slide549--8" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="32" font-weight="400" style="fill:#3B3838;">IsGiftCard</text>
+    <text transform="translate(64.3877, 191)" id="Content_Placeholder_5--Slide549--9" font-family="Arial,Arial_MSFontService,sans-serif" font-size="32" font-weight="400" style="fill:#3B3838;">•</text>
+    <text transform="translate(88.3877, 191)" id="Content_Placeholder_5--Slide549--10" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="32" font-weight="400" style="fill:#3B3838;">GiftCardTypeId</text>
+    <text transform="translate(64.3877, 233)" id="Content_Placeholder_5--Slide549--11" font-family="Arial,Arial_MSFontService,sans-serif" font-size="32" font-weight="400" style="fill:#3B3838;">•</text>
+    <text transform="translate(88.3877, 233)" id="Content_Placeholder_5--Slide549--12" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="32" font-weight="400" style="fill:#3B3838;">OverriddenGiftCardAmount</text>
+    <g id="Graphic_7--Slide549--13">
+      <g>
+        <g>
+          <path d="M39.3333 18.4375 C39.3333 23.8683 34.9308 28.2708 29.5 28.2708 C24.0692 28.2708 19.6667 23.8683 19.6667 18.4375 C19.6667 13.0067 24.0692 8.60417 29.5 8.60417 C34.9308 8.60417 39.3333 13.0067 39.3333 18.4375 Z" transform="matrix(1, 0, 0, 1.01695, 1154, 67)" style="fill:#4472C4;" />
+          <path d="M49.1667 50.3958 L49.1667 40.5625 C49.1667 39.0875 48.4292 37.6125 47.2 36.6292 C44.4958 34.4167 41.0542 32.9417 37.6125 31.9583 C35.1542 31.2208 32.45 30.7292 29.5 30.7292 C26.7958 30.7292 24.0917 31.2208 21.3875 31.9583 C17.9458 32.9417 14.5042 34.6625 11.8 36.6292 C10.5708 37.6125 9.83333 39.0875 9.83333 40.5625 L9.83333 50.3958 L49.1667 50.3958 Z" transform="matrix(1, 0, 0, 1.01695, 1154, 67)" style="fill:#4472C4;" />
+        </g>
+      </g>
+    </g>
+    <text transform="translate(1162.53, 152)" id="TextBox_8--Slide549--14" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400">DBA</text>
+    <g clip-path="url(#clip1)" transform="matrix(0.000104987, 0, 0, 0.000104987, 1200, 640)" id="Slide6--Slide549--15" style="display:none;">
+      <g clip-path="url(#clip3)">
+        <use xlink:href="#img2" width="100%" height="100%" transform="matrix(9525, 0, 0, 9525, -1, -0.5)" />
+      </g>
+    </g>
+    <path d="M83.5001 649 C83.5001 645.41 86.4101 642.5 89.9999 642.5 L580 642.5 C583.59 642.5 586.5 645.41 586.5 649 L586.5 675 C586.5 678.59 583.59 681.5 580 681.5 L89.9999 681.5 C86.4101 681.5 83.5001 678.59 83.5001 675 Z" id="Rounded_Rectangle_4--Slide549--16" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:#4472C4;stroke:#2F528F;" />
+    <text transform="translate(172.343, 669)" id="Rounded_Rectangle_4--Slide549--17" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" style="fill:white;">`~!@#$%^&amp;*()_</text>
+    <text transform="translate(329.009, 669)" id="Rounded_Rectangle_4--Slide549--18" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" style="fill:white;">-</text>
+    <text transform="translate(336.343, 669)" id="Rounded_Rectangle_4--Slide549--19" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" style="fill:white;">=+[]{}</text>
+    <text transform="translate(390.009, 669)" id="Rounded_Rectangle_4--Slide549--20" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" style="fill:white;">\</text>
+    <text transform="translate(399.343, 669)" id="Rounded_Rectangle_4--Slide549--21" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" style="fill:white;">|;:’”&lt;,&gt;.?/</text>
+    <text transform="translate(542.999, 708)" id="Footer_Placeholder_9--Slide549--22" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="16" font-weight="400" style="fill:#767171;">John@ICompareSolutions.com</text>
+    <text transform="translate(1254.43, 708)" id="Slide_Number_Placeholder_10--Slide549--23" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="16" font-weight="400" style="fill:#767171;">6</text>
+  </g>
+</svg>
